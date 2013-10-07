@@ -89,6 +89,27 @@ class qbox extends CI_Controller{
                 
 		return $previewURL;
 	}
+        public function GetDownloadURL2($key)
+	{
+		$previewURL="";
+		if($key!="")
+		{
+			$domain="hhshe.qiniudn.com";
+			$baseUrl = Qiniu_RS_MakeBaseUrl($domain, $key);
+                        //生成fopUrl
+                        $imgView = new Qiniu_ImageView;
+                        $imgView->Mode = 2;
+                        $imgView->Width = 572;
+                        $imgView->Height = 306;
+                        $imgViewUrl = $imgView->MakeRequest($baseUrl);
+                        
+			$getPolicy = new Qiniu_RS_GetPolicy();
+
+			$previewURL = $getPolicy->MakeRequest($imgViewUrl, null);
+		}
+                
+		return $previewURL;
+	}
 	public function DeleteQiniuFile($fkey)
 	{
 		$this->client = new Qiniu_MacHttpClient(null);

@@ -2129,3 +2129,510 @@ DEBUG - 2013-10-07 09:39:42 --> File loaded: application/views/news/update.php
 DEBUG - 2013-10-07 09:39:42 --> File loaded: application/views/templates/footer.php
 DEBUG - 2013-10-07 09:39:42 --> Final output sent to browser
 DEBUG - 2013-10-07 09:39:42 --> Total execution time: 0.0349
+DEBUG - 2013-10-07 09:45:51 --> Config Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Hooks Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 09:45:51 --> URI Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Router Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Output Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Security Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Input Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 09:45:51 --> Language Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Loader Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 09:45:51 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 09:45:51 --> Session Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Helper loaded: string_helper
+DEBUG - 2013-10-07 09:45:51 --> Session routines successfully run
+DEBUG - 2013-10-07 09:45:51 --> Encrypt Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Model Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Model Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Controller Class Initialized
+ERROR - 2013-10-07 09:45:51 --> callbackupdate_delete
+ERROR - 2013-10-07 09:45:51 --> message hhs_news
+ERROR - 2013-10-07 09:45:51 --> message UPDATE `hhs_news` SET `summary_fkey` = '' WHERE `id` =  '115'
+ERROR - 2013-10-07 09:45:51 -->  delete message 201303171216353117.jpg517e55dc8c9ca
+ERROR - 2013-10-07 09:45:51 --> Severity: 4096  --> Object of class Qiniu_MacHttpClient could not be converted to string /Users/syoujiang/Documents/hhs_web/web2/application/libraries/Qbox.php 95
+ERROR - 2013-10-07 09:45:51 --> $this->client 
+ERROR - 2013-10-07 09:45:51 --> $this->$fkey 201303171216353117.jpg517e55dc8c9ca
+ERROR - 2013-10-07 09:45:51 --> message /delete/aGhzOjIwMTMwMzE3MTIxNjM1MzExNy5qcGc1MTdlNTVkYzhjOWNh
+ERROR - 2013-10-07 09:45:51 --> $QINIU_RS_HOST http://rs.qbox.me
+DEBUG - 2013-10-07 09:45:51 --> Config Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Hooks Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 09:45:51 --> URI Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Router Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Output Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Security Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Input Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 09:45:51 --> Language Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Loader Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 09:45:51 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 09:45:51 --> Session Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Helper loaded: string_helper
+DEBUG - 2013-10-07 09:45:51 --> Session routines successfully run
+DEBUG - 2013-10-07 09:45:51 --> Encrypt Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Model Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Model Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:45:51 --> Controller Class Initialized
+ERROR - 2013-10-07 09:45:51 --> callbackupdate_delete
+ERROR - 2013-10-07 09:45:51 --> message hhs_news
+ERROR - 2013-10-07 09:45:51 --> message UPDATE `hhs_news` SET `summary_fkey` = '' WHERE `id` =  '115'
+ERROR - 2013-10-07 09:45:51 -->  delete message 201303171216353117.jpg517e55dc8c9ca
+ERROR - 2013-10-07 09:45:51 --> Severity: 4096  --> Object of class Qiniu_MacHttpClient could not be converted to string /Users/syoujiang/Documents/hhs_web/web2/application/libraries/Qbox.php 95
+ERROR - 2013-10-07 09:45:51 --> $this->client 
+ERROR - 2013-10-07 09:45:51 --> $this->$fkey 201303171216353117.jpg517e55dc8c9ca
+ERROR - 2013-10-07 09:45:51 --> message /delete/aGhzOjIwMTMwMzE3MTIxNjM1MzExNy5qcGc1MTdlNTVkYzhjOWNh
+ERROR - 2013-10-07 09:45:51 --> $QINIU_RS_HOST http://rs.qbox.me
+ERROR - 2013-10-07 09:45:51 --> Severity: Notice  --> Undefined index: X-Log /Users/syoujiang/Documents/hhs_web/web2/application/libraries/lib/http.php 63
+ERROR - 2013-10-07 09:45:51 --> Severity: Notice  --> Undefined index: X-Reqid /Users/syoujiang/Documents/hhs_web/web2/application/libraries/lib/http.php 63
+ERROR - 2013-10-07 09:45:51 --> DeleteQiniuFile error Qiniu_Error::__set_state(array(
+   'Err' => 'no such file or directory',
+   'Reqid' => NULL,
+   'Details' => NULL,
+   'Code' => 612,
+))
+ERROR - 2013-10-07 09:45:51 --> DeleteQiniuFile Success!
+DEBUG - 2013-10-07 09:45:58 --> Config Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Hooks Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 09:45:58 --> URI Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Router Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Output Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Security Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Input Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 09:45:58 --> Language Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Loader Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 09:45:58 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Model Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 09:45:58 --> Helper loaded: text_helper
+DEBUG - 2013-10-07 09:45:58 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 09:45:58 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 09:45:58 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 09:45:58 --> File loaded: application/views/news/update.php
+DEBUG - 2013-10-07 09:45:58 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 09:45:58 --> Final output sent to browser
+DEBUG - 2013-10-07 09:45:58 --> Total execution time: 0.0383
+DEBUG - 2013-10-07 09:45:58 --> Config Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Hooks Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 09:45:58 --> URI Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Router Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Output Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Security Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Input Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 09:45:58 --> Language Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Loader Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 09:45:58 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 09:45:58 --> Session Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Helper loaded: string_helper
+DEBUG - 2013-10-07 09:45:58 --> Session routines successfully run
+DEBUG - 2013-10-07 09:45:58 --> Encrypt Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Model Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Model Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:45:58 --> Controller Class Initialized
+ERROR - 2013-10-07 09:45:58 --> callbackshow
+ERROR - 2013-10-07 09:45:58 --> message show ()(http://hhshe.qiniudn.com/201303171216353117.jpg517e55ef8c9cb?imageView/2/w/146/h/110&e=1417110358&token=LtcS2cGr8WfCpgfZGyX6YDmW4OjOEwt_rNGO0gog:kAm5P-7eyPDoyhgPziOP5VYOFjI=)
+DEBUG - 2013-10-07 09:45:59 --> Config Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Hooks Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 09:45:59 --> URI Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Router Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Output Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Security Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Input Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 09:45:59 --> Language Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Loader Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 09:45:59 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Model Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 09:45:59 --> Helper loaded: text_helper
+DEBUG - 2013-10-07 09:45:59 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 09:45:59 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 09:45:59 --> File loaded: application/views/templates/left.php
+ERROR - 2013-10-07 09:45:59 --> Severity: Notice  --> Undefined variable: id /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 28
+ERROR - 2013-10-07 09:45:59 --> Severity: Notice  --> Undefined variable: summary_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 66
+ERROR - 2013-10-07 09:45:59 --> Severity: Notice  --> Undefined variable: content_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 67
+ERROR - 2013-10-07 09:45:59 --> Severity: Notice  --> Undefined variable: summary_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 297
+ERROR - 2013-10-07 09:45:59 --> Severity: Notice  --> Undefined variable: content_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 300
+ERROR - 2013-10-07 09:45:59 --> Severity: Notice  --> Undefined variable: zx_title /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 310
+ERROR - 2013-10-07 09:45:59 --> Severity: Notice  --> Undefined variable: zx_type /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 323
+ERROR - 2013-10-07 09:45:59 --> Severity: Notice  --> Undefined variable: zx_summary /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 329
+ERROR - 2013-10-07 09:45:59 --> Severity: Notice  --> Undefined variable: zx_content /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 343
+ERROR - 2013-10-07 09:45:59 --> Severity: Notice  --> Undefined variable: zx_from /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 347
+ERROR - 2013-10-07 09:45:59 --> Severity: Notice  --> Undefined variable: zx_create /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 361
+DEBUG - 2013-10-07 09:45:59 --> File loaded: application/views/news/update.php
+DEBUG - 2013-10-07 09:45:59 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 09:45:59 --> Final output sent to browser
+DEBUG - 2013-10-07 09:45:59 --> Total execution time: 0.0341
+DEBUG - 2013-10-07 09:45:59 --> Config Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Hooks Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 09:45:59 --> URI Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Router Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Output Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Security Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Input Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 09:45:59 --> Language Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Loader Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 09:45:59 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Model Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 09:45:59 --> Helper loaded: text_helper
+DEBUG - 2013-10-07 09:45:59 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:45:59 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 09:45:59 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 09:45:59 --> File loaded: application/views/templates/left.php
+ERROR - 2013-10-07 09:45:59 --> Severity: Notice  --> Undefined variable: id /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 28
+ERROR - 2013-10-07 09:45:59 --> Severity: Notice  --> Undefined variable: summary_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 66
+ERROR - 2013-10-07 09:45:59 --> Severity: Notice  --> Undefined variable: content_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 67
+ERROR - 2013-10-07 09:45:59 --> Severity: Notice  --> Undefined variable: summary_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 297
+ERROR - 2013-10-07 09:45:59 --> Severity: Notice  --> Undefined variable: content_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 300
+ERROR - 2013-10-07 09:45:59 --> Severity: Notice  --> Undefined variable: zx_title /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 310
+ERROR - 2013-10-07 09:45:59 --> Severity: Notice  --> Undefined variable: zx_type /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 323
+ERROR - 2013-10-07 09:45:59 --> Severity: Notice  --> Undefined variable: zx_summary /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 329
+ERROR - 2013-10-07 09:45:59 --> Severity: Notice  --> Undefined variable: zx_content /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 343
+ERROR - 2013-10-07 09:45:59 --> Severity: Notice  --> Undefined variable: zx_from /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 347
+ERROR - 2013-10-07 09:45:59 --> Severity: Notice  --> Undefined variable: zx_create /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 361
+DEBUG - 2013-10-07 09:45:59 --> File loaded: application/views/news/update.php
+DEBUG - 2013-10-07 09:45:59 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 09:45:59 --> Final output sent to browser
+DEBUG - 2013-10-07 09:45:59 --> Total execution time: 0.0390
+DEBUG - 2013-10-07 09:46:05 --> Config Class Initialized
+DEBUG - 2013-10-07 09:46:05 --> Hooks Class Initialized
+DEBUG - 2013-10-07 09:46:05 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 09:46:05 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 09:46:05 --> URI Class Initialized
+DEBUG - 2013-10-07 09:46:05 --> Router Class Initialized
+DEBUG - 2013-10-07 09:46:05 --> Output Class Initialized
+DEBUG - 2013-10-07 09:46:05 --> Security Class Initialized
+DEBUG - 2013-10-07 09:46:05 --> Input Class Initialized
+DEBUG - 2013-10-07 09:46:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 09:46:05 --> Language Class Initialized
+DEBUG - 2013-10-07 09:46:05 --> Loader Class Initialized
+DEBUG - 2013-10-07 09:46:05 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:46:05 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:46:05 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 09:46:05 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 09:46:05 --> Model Class Initialized
+DEBUG - 2013-10-07 09:46:05 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 09:46:05 --> Helper loaded: text_helper
+DEBUG - 2013-10-07 09:46:05 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 09:46:05 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 09:46:05 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 09:46:05 --> File loaded: application/views/news/index.php
+DEBUG - 2013-10-07 09:46:05 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 09:46:05 --> Final output sent to browser
+DEBUG - 2013-10-07 09:46:05 --> Total execution time: 0.0309
+DEBUG - 2013-10-07 09:46:07 --> Config Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Hooks Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 09:46:07 --> URI Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Router Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Output Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Security Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Input Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 09:46:07 --> Language Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Loader Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 09:46:07 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Model Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 09:46:07 --> Helper loaded: text_helper
+DEBUG - 2013-10-07 09:46:07 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 09:46:07 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 09:46:07 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 09:46:07 --> File loaded: application/views/news/update.php
+DEBUG - 2013-10-07 09:46:07 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 09:46:07 --> Final output sent to browser
+DEBUG - 2013-10-07 09:46:07 --> Total execution time: 0.0281
+DEBUG - 2013-10-07 09:46:07 --> Config Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Hooks Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 09:46:07 --> URI Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Router Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Output Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Security Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Input Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 09:46:07 --> Language Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Loader Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 09:46:07 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 09:46:07 --> Session Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Helper loaded: string_helper
+DEBUG - 2013-10-07 09:46:07 --> Session routines successfully run
+DEBUG - 2013-10-07 09:46:07 --> Encrypt Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Model Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Model Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Controller Class Initialized
+ERROR - 2013-10-07 09:46:07 --> callbackshow
+ERROR - 2013-10-07 09:46:07 --> message show (http://hhshe.qiniudn.com/Fu5yi2-lVWfj8GNv5Ddt3ywZmN_n?imageView/2/w/146/h/110&e=1417110367&token=LtcS2cGr8WfCpgfZGyX6YDmW4OjOEwt_rNGO0gog:qDu_PdWhV-N0JhdwMu5w4nIQz3g=)()
+DEBUG - 2013-10-07 09:46:07 --> Config Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Hooks Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 09:46:07 --> URI Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Router Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Output Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Security Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Input Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 09:46:07 --> Language Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Loader Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 09:46:07 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Model Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 09:46:07 --> Helper loaded: text_helper
+DEBUG - 2013-10-07 09:46:07 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 09:46:07 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 09:46:07 --> File loaded: application/views/templates/left.php
+ERROR - 2013-10-07 09:46:07 --> Severity: Notice  --> Undefined variable: id /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 28
+ERROR - 2013-10-07 09:46:07 --> Severity: Notice  --> Undefined variable: summary_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 66
+ERROR - 2013-10-07 09:46:07 --> Severity: Notice  --> Undefined variable: content_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 67
+ERROR - 2013-10-07 09:46:07 --> Severity: Notice  --> Undefined variable: summary_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 297
+ERROR - 2013-10-07 09:46:07 --> Severity: Notice  --> Undefined variable: content_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 300
+ERROR - 2013-10-07 09:46:07 --> Severity: Notice  --> Undefined variable: zx_title /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 310
+ERROR - 2013-10-07 09:46:07 --> Severity: Notice  --> Undefined variable: zx_type /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 323
+ERROR - 2013-10-07 09:46:07 --> Severity: Notice  --> Undefined variable: zx_summary /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 329
+ERROR - 2013-10-07 09:46:07 --> Severity: Notice  --> Undefined variable: zx_content /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 343
+ERROR - 2013-10-07 09:46:07 --> Severity: Notice  --> Undefined variable: zx_from /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 347
+ERROR - 2013-10-07 09:46:07 --> Severity: Notice  --> Undefined variable: zx_create /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 361
+DEBUG - 2013-10-07 09:46:07 --> File loaded: application/views/news/update.php
+DEBUG - 2013-10-07 09:46:07 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 09:46:07 --> Final output sent to browser
+DEBUG - 2013-10-07 09:46:07 --> Total execution time: 0.0329
+DEBUG - 2013-10-07 09:46:07 --> Config Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Hooks Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 09:46:07 --> URI Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Router Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Output Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Security Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Input Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 09:46:07 --> Language Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Loader Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 09:46:07 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Model Class Initialized
+DEBUG - 2013-10-07 09:46:07 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 09:46:07 --> Helper loaded: text_helper
+DEBUG - 2013-10-07 09:46:08 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:46:08 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:46:08 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 09:46:08 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 09:46:08 --> File loaded: application/views/templates/left.php
+ERROR - 2013-10-07 09:46:08 --> Severity: Notice  --> Undefined variable: id /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 28
+ERROR - 2013-10-07 09:46:08 --> Severity: Notice  --> Undefined variable: summary_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 66
+ERROR - 2013-10-07 09:46:08 --> Severity: Notice  --> Undefined variable: content_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 67
+ERROR - 2013-10-07 09:46:08 --> Severity: Notice  --> Undefined variable: summary_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 297
+ERROR - 2013-10-07 09:46:08 --> Severity: Notice  --> Undefined variable: content_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 300
+ERROR - 2013-10-07 09:46:08 --> Severity: Notice  --> Undefined variable: zx_title /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 310
+ERROR - 2013-10-07 09:46:08 --> Severity: Notice  --> Undefined variable: zx_type /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 323
+ERROR - 2013-10-07 09:46:08 --> Severity: Notice  --> Undefined variable: zx_summary /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 329
+ERROR - 2013-10-07 09:46:08 --> Severity: Notice  --> Undefined variable: zx_content /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 343
+ERROR - 2013-10-07 09:46:08 --> Severity: Notice  --> Undefined variable: zx_from /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 347
+ERROR - 2013-10-07 09:46:08 --> Severity: Notice  --> Undefined variable: zx_create /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 361
+DEBUG - 2013-10-07 09:46:08 --> File loaded: application/views/news/update.php
+DEBUG - 2013-10-07 09:46:08 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 09:46:08 --> Final output sent to browser
+DEBUG - 2013-10-07 09:46:08 --> Total execution time: 0.0336
+DEBUG - 2013-10-07 09:48:09 --> Config Class Initialized
+DEBUG - 2013-10-07 09:48:09 --> Hooks Class Initialized
+DEBUG - 2013-10-07 09:48:09 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 09:48:09 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 09:48:09 --> URI Class Initialized
+DEBUG - 2013-10-07 09:48:09 --> Router Class Initialized
+DEBUG - 2013-10-07 09:48:09 --> Output Class Initialized
+DEBUG - 2013-10-07 09:48:09 --> Security Class Initialized
+DEBUG - 2013-10-07 09:48:09 --> Input Class Initialized
+DEBUG - 2013-10-07 09:48:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 09:48:09 --> Language Class Initialized
+DEBUG - 2013-10-07 09:48:09 --> Loader Class Initialized
+DEBUG - 2013-10-07 09:48:09 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:48:09 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:48:09 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 09:48:09 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 09:48:09 --> Model Class Initialized
+DEBUG - 2013-10-07 09:48:09 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 09:48:09 --> Helper loaded: text_helper
+DEBUG - 2013-10-07 09:48:09 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:48:09 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:48:09 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 09:48:09 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 09:48:09 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 09:48:09 --> File loaded: application/views/news/update.php
+DEBUG - 2013-10-07 09:48:09 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 09:48:09 --> Final output sent to browser
+DEBUG - 2013-10-07 09:48:09 --> Total execution time: 0.0323
+DEBUG - 2013-10-07 09:48:10 --> Config Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Hooks Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 09:48:10 --> URI Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Router Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Output Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Security Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Input Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 09:48:10 --> Language Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Loader Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 09:48:10 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 09:48:10 --> Session Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Helper loaded: string_helper
+DEBUG - 2013-10-07 09:48:10 --> Session routines successfully run
+DEBUG - 2013-10-07 09:48:10 --> Encrypt Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Model Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Model Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Controller Class Initialized
+ERROR - 2013-10-07 09:48:10 --> callbackshow
+ERROR - 2013-10-07 09:48:10 --> message show (http://hhshe.qiniudn.com/Fu5yi2-lVWfj8GNv5Ddt3ywZmN_n?imageView/2/w/146/h/110&e=1417110490&token=LtcS2cGr8WfCpgfZGyX6YDmW4OjOEwt_rNGO0gog:gzjVFLl3IuA_rplcCPwKpuxgVlY=)()
+DEBUG - 2013-10-07 09:48:10 --> Config Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Hooks Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 09:48:10 --> URI Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Router Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Output Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Security Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Input Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 09:48:10 --> Language Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Loader Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 09:48:10 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Model Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 09:48:10 --> Helper loaded: text_helper
+DEBUG - 2013-10-07 09:48:10 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 09:48:10 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 09:48:10 --> File loaded: application/views/templates/left.php
+ERROR - 2013-10-07 09:48:10 --> Severity: Notice  --> Undefined variable: id /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 28
+ERROR - 2013-10-07 09:48:10 --> Severity: Notice  --> Undefined variable: summary_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 66
+ERROR - 2013-10-07 09:48:10 --> Severity: Notice  --> Undefined variable: content_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 67
+ERROR - 2013-10-07 09:48:10 --> Severity: Notice  --> Undefined variable: summary_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 297
+ERROR - 2013-10-07 09:48:10 --> Severity: Notice  --> Undefined variable: content_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 300
+ERROR - 2013-10-07 09:48:10 --> Severity: Notice  --> Undefined variable: zx_title /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 310
+ERROR - 2013-10-07 09:48:10 --> Severity: Notice  --> Undefined variable: zx_type /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 323
+ERROR - 2013-10-07 09:48:10 --> Severity: Notice  --> Undefined variable: zx_summary /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 329
+ERROR - 2013-10-07 09:48:10 --> Severity: Notice  --> Undefined variable: zx_content /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 343
+ERROR - 2013-10-07 09:48:10 --> Severity: Notice  --> Undefined variable: zx_from /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 347
+ERROR - 2013-10-07 09:48:10 --> Severity: Notice  --> Undefined variable: zx_create /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 361
+DEBUG - 2013-10-07 09:48:10 --> File loaded: application/views/news/update.php
+DEBUG - 2013-10-07 09:48:10 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 09:48:10 --> Final output sent to browser
+DEBUG - 2013-10-07 09:48:10 --> Total execution time: 0.0355
+DEBUG - 2013-10-07 09:48:10 --> Config Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Hooks Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 09:48:10 --> URI Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Router Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Output Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Security Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Input Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 09:48:10 --> Language Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Loader Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 09:48:10 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Model Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 09:48:10 --> Helper loaded: text_helper
+DEBUG - 2013-10-07 09:48:10 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> Controller Class Initialized
+DEBUG - 2013-10-07 09:48:10 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 09:48:10 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 09:48:10 --> File loaded: application/views/templates/left.php
+ERROR - 2013-10-07 09:48:10 --> Severity: Notice  --> Undefined variable: id /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 28
+ERROR - 2013-10-07 09:48:10 --> Severity: Notice  --> Undefined variable: summary_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 66
+ERROR - 2013-10-07 09:48:10 --> Severity: Notice  --> Undefined variable: content_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 67
+ERROR - 2013-10-07 09:48:10 --> Severity: Notice  --> Undefined variable: summary_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 297
+ERROR - 2013-10-07 09:48:10 --> Severity: Notice  --> Undefined variable: content_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 300
+ERROR - 2013-10-07 09:48:10 --> Severity: Notice  --> Undefined variable: zx_title /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 310
+ERROR - 2013-10-07 09:48:10 --> Severity: Notice  --> Undefined variable: zx_type /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 323
+ERROR - 2013-10-07 09:48:10 --> Severity: Notice  --> Undefined variable: zx_summary /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 329
+ERROR - 2013-10-07 09:48:10 --> Severity: Notice  --> Undefined variable: zx_content /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 343
+ERROR - 2013-10-07 09:48:10 --> Severity: Notice  --> Undefined variable: zx_from /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 347
+ERROR - 2013-10-07 09:48:10 --> Severity: Notice  --> Undefined variable: zx_create /Users/syoujiang/Documents/hhs_web/web2/application/views/news/update.php 361
+DEBUG - 2013-10-07 09:48:10 --> File loaded: application/views/news/update.php
+DEBUG - 2013-10-07 09:48:10 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 09:48:10 --> Final output sent to browser
+DEBUG - 2013-10-07 09:48:10 --> Total execution time: 0.0328

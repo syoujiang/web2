@@ -114,7 +114,7 @@ class zixun extends REST_Controller
         $content=$this->news_model->getOneNews_api($this->get('id'));
         if($content)
         { 
-            $content['content_url']=$this->qbox->GetDownloadURL($content['content_fkey']);
+            $content['content_url']=$this->qbox->GetDownloadURL2($content['content_fkey']);
             $content['collect']=1;
             $this->response($content, 200); // 200 being the HTTP response code
         }
