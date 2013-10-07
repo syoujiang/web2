@@ -2,7 +2,7 @@
 /**
 * 
 */
-class news extends CI_Controller
+class News extends CI_Controller
 {
 	
 	function __construct()
@@ -34,7 +34,8 @@ class news extends CI_Controller
 		$page_config['seg']=3;//参数取 index.php之后的段数，默认为3，即index.php/control/function/18 这种形式
 		$page_config['nowindex']=$this->uri->segment($page_config['seg']) ? $this->uri->segment($page_config['seg']):1;//当前页
 		$page_config['total']=$total;
-		$this->load->library('mypage');
+
+                
 		$this->mypage->initialize($page_config);
 		//echo $page_config['nowindex'];
 		$offset = ($page_config['nowindex']-1)*($page_config['perpage']);

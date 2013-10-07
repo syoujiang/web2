@@ -12368,3 +12368,819 @@ DEBUG - 2013-10-07 15:42:59 --> Database Driver Class Initialized
 DEBUG - 2013-10-07 15:42:59 --> Controller Class Initialized
 DEBUG - 2013-10-07 15:42:59 --> XSS Filtering completed
 DEBUG - 2013-10-07 15:42:59 --> XSS Filtering completed
+DEBUG - 2013-10-07 15:55:37 --> Config Class Initialized
+DEBUG - 2013-10-07 15:55:37 --> Hooks Class Initialized
+DEBUG - 2013-10-07 15:55:37 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 15:55:37 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 15:55:37 --> URI Class Initialized
+DEBUG - 2013-10-07 15:55:37 --> Router Class Initialized
+DEBUG - 2013-10-07 15:55:37 --> Output Class Initialized
+DEBUG - 2013-10-07 15:55:37 --> Security Class Initialized
+DEBUG - 2013-10-07 15:55:37 --> Input Class Initialized
+DEBUG - 2013-10-07 15:55:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 15:55:37 --> Language Class Initialized
+DEBUG - 2013-10-07 15:55:37 --> Loader Class Initialized
+DEBUG - 2013-10-07 15:55:37 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 15:55:37 --> Controller Class Initialized
+DEBUG - 2013-10-07 15:55:37 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 15:55:37 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 15:55:37 --> Model Class Initialized
+DEBUG - 2013-10-07 15:55:37 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 15:55:37 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 15:55:37 --> Controller Class Initialized
+DEBUG - 2013-10-07 15:55:37 --> Helper loaded: text_helper
+ERROR - 2013-10-07 15:55:37 --> Severity: Notice  --> Undefined property: news::$mypage /Users/syoujiang/Documents/hhs_web/web2/application/controllers/news.php 38
+DEBUG - 2013-10-07 15:55:45 --> Config Class Initialized
+DEBUG - 2013-10-07 15:55:45 --> Hooks Class Initialized
+DEBUG - 2013-10-07 15:55:45 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 15:55:45 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 15:55:45 --> URI Class Initialized
+DEBUG - 2013-10-07 15:55:45 --> Router Class Initialized
+DEBUG - 2013-10-07 15:55:45 --> Output Class Initialized
+DEBUG - 2013-10-07 15:55:45 --> Security Class Initialized
+DEBUG - 2013-10-07 15:55:45 --> Input Class Initialized
+DEBUG - 2013-10-07 15:55:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 15:55:45 --> Language Class Initialized
+DEBUG - 2013-10-07 15:55:45 --> Loader Class Initialized
+DEBUG - 2013-10-07 15:55:45 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 15:55:45 --> Controller Class Initialized
+DEBUG - 2013-10-07 15:55:45 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 15:55:45 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 15:55:45 --> Model Class Initialized
+DEBUG - 2013-10-07 15:55:45 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 15:55:45 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 15:55:45 --> Controller Class Initialized
+DEBUG - 2013-10-07 15:55:45 --> Helper loaded: text_helper
+ERROR - 2013-10-07 15:55:45 --> Severity: Notice  --> Undefined property: news::$mypage /Users/syoujiang/Documents/hhs_web/web2/application/controllers/news.php 38
+DEBUG - 2013-10-07 15:56:45 --> Config Class Initialized
+DEBUG - 2013-10-07 15:56:45 --> Hooks Class Initialized
+DEBUG - 2013-10-07 15:56:45 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 15:56:45 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 15:56:45 --> URI Class Initialized
+DEBUG - 2013-10-07 15:56:45 --> Router Class Initialized
+DEBUG - 2013-10-07 15:56:45 --> Output Class Initialized
+DEBUG - 2013-10-07 15:56:45 --> Security Class Initialized
+DEBUG - 2013-10-07 15:56:45 --> Input Class Initialized
+DEBUG - 2013-10-07 15:56:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 15:56:45 --> Language Class Initialized
+DEBUG - 2013-10-07 15:56:45 --> Loader Class Initialized
+DEBUG - 2013-10-07 15:56:45 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 15:56:45 --> Controller Class Initialized
+DEBUG - 2013-10-07 15:56:45 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 15:56:45 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 15:56:45 --> Model Class Initialized
+DEBUG - 2013-10-07 15:56:45 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 15:56:45 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 15:56:45 --> Controller Class Initialized
+DEBUG - 2013-10-07 15:56:45 --> Helper loaded: text_helper
+DEBUG - 2013-10-07 15:56:45 --> Mypage class already loaded. Second attempt ignored.
+ERROR - 2013-10-07 15:56:45 --> Severity: Notice  --> Undefined property: news::$mypage /Users/syoujiang/Documents/hhs_web/web2/application/controllers/news.php 39
+DEBUG - 2013-10-07 15:56:49 --> Config Class Initialized
+DEBUG - 2013-10-07 15:56:49 --> Hooks Class Initialized
+DEBUG - 2013-10-07 15:56:49 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 15:56:49 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 15:56:49 --> URI Class Initialized
+DEBUG - 2013-10-07 15:56:49 --> Router Class Initialized
+DEBUG - 2013-10-07 15:56:49 --> Output Class Initialized
+DEBUG - 2013-10-07 15:56:49 --> Security Class Initialized
+DEBUG - 2013-10-07 15:56:49 --> Input Class Initialized
+DEBUG - 2013-10-07 15:56:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 15:56:49 --> Language Class Initialized
+DEBUG - 2013-10-07 15:56:49 --> Loader Class Initialized
+DEBUG - 2013-10-07 15:56:49 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 15:56:49 --> Controller Class Initialized
+DEBUG - 2013-10-07 15:56:49 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 15:56:49 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 15:56:49 --> Model Class Initialized
+DEBUG - 2013-10-07 15:56:49 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 15:56:49 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 15:56:49 --> Controller Class Initialized
+DEBUG - 2013-10-07 15:56:49 --> Helper loaded: text_helper
+DEBUG - 2013-10-07 15:56:49 --> Mypage class already loaded. Second attempt ignored.
+ERROR - 2013-10-07 15:56:49 --> Severity: Notice  --> Undefined property: news::$mypage /Users/syoujiang/Documents/hhs_web/web2/application/controllers/news.php 39
+DEBUG - 2013-10-07 15:57:03 --> Config Class Initialized
+DEBUG - 2013-10-07 15:57:03 --> Hooks Class Initialized
+DEBUG - 2013-10-07 15:57:03 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 15:57:03 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 15:57:03 --> URI Class Initialized
+DEBUG - 2013-10-07 15:57:03 --> Router Class Initialized
+DEBUG - 2013-10-07 15:57:03 --> Output Class Initialized
+DEBUG - 2013-10-07 15:57:03 --> Security Class Initialized
+DEBUG - 2013-10-07 15:57:03 --> Input Class Initialized
+DEBUG - 2013-10-07 15:57:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 15:57:03 --> Language Class Initialized
+DEBUG - 2013-10-07 15:57:03 --> Loader Class Initialized
+DEBUG - 2013-10-07 15:57:03 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 15:57:03 --> Controller Class Initialized
+DEBUG - 2013-10-07 15:57:03 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 15:57:03 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 15:57:03 --> Model Class Initialized
+DEBUG - 2013-10-07 15:57:03 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 15:57:03 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 15:57:03 --> Controller Class Initialized
+DEBUG - 2013-10-07 15:57:03 --> Helper loaded: text_helper
+ERROR - 2013-10-07 15:57:03 --> Severity: Notice  --> Undefined property: news::$mypage /Users/syoujiang/Documents/hhs_web/web2/application/controllers/news.php 38
+DEBUG - 2013-10-07 15:57:08 --> Config Class Initialized
+DEBUG - 2013-10-07 15:57:08 --> Hooks Class Initialized
+DEBUG - 2013-10-07 15:57:08 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 15:57:08 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 15:57:08 --> URI Class Initialized
+DEBUG - 2013-10-07 15:57:08 --> Router Class Initialized
+DEBUG - 2013-10-07 15:57:08 --> No URI present. Default controller set.
+DEBUG - 2013-10-07 15:57:08 --> Output Class Initialized
+DEBUG - 2013-10-07 15:57:08 --> Security Class Initialized
+DEBUG - 2013-10-07 15:57:08 --> Input Class Initialized
+DEBUG - 2013-10-07 15:57:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 15:57:08 --> Language Class Initialized
+DEBUG - 2013-10-07 15:57:08 --> Loader Class Initialized
+DEBUG - 2013-10-07 15:57:08 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 15:57:08 --> Controller Class Initialized
+DEBUG - 2013-10-07 15:57:08 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 15:57:08 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 15:57:08 --> Model Class Initialized
+DEBUG - 2013-10-07 15:57:08 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 15:57:08 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 15:57:08 --> Controller Class Initialized
+DEBUG - 2013-10-07 15:57:08 --> Helper loaded: text_helper
+ERROR - 2013-10-07 15:57:08 --> Severity: Notice  --> Undefined property: news::$mypage /Users/syoujiang/Documents/hhs_web/web2/application/controllers/news.php 38
+DEBUG - 2013-10-07 16:04:11 --> Config Class Initialized
+DEBUG - 2013-10-07 16:04:11 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:04:11 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:04:11 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:04:11 --> URI Class Initialized
+DEBUG - 2013-10-07 16:04:11 --> Router Class Initialized
+DEBUG - 2013-10-07 16:04:11 --> Output Class Initialized
+DEBUG - 2013-10-07 16:04:11 --> Security Class Initialized
+DEBUG - 2013-10-07 16:04:11 --> Input Class Initialized
+DEBUG - 2013-10-07 16:04:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:04:11 --> Language Class Initialized
+DEBUG - 2013-10-07 16:04:11 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:04:11 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:04:11 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:04:11 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:04:11 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:04:11 --> Model Class Initialized
+DEBUG - 2013-10-07 16:04:11 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:04:11 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:04:11 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:04:11 --> Helper loaded: text_helper
+ERROR - 2013-10-07 16:04:11 --> Severity: Notice  --> Undefined property: news::$mypage /Users/syoujiang/Documents/hhs_web/web2/application/controllers/news.php 38
+DEBUG - 2013-10-07 16:05:53 --> Config Class Initialized
+DEBUG - 2013-10-07 16:05:53 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:05:53 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:05:53 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:05:53 --> URI Class Initialized
+DEBUG - 2013-10-07 16:05:53 --> Router Class Initialized
+DEBUG - 2013-10-07 16:05:53 --> No URI present. Default controller set.
+DEBUG - 2013-10-07 16:05:53 --> Output Class Initialized
+DEBUG - 2013-10-07 16:05:53 --> Security Class Initialized
+DEBUG - 2013-10-07 16:05:53 --> Input Class Initialized
+DEBUG - 2013-10-07 16:05:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:05:53 --> Language Class Initialized
+DEBUG - 2013-10-07 16:05:53 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:05:53 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:05:53 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:05:53 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:05:53 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:05:53 --> Model Class Initialized
+DEBUG - 2013-10-07 16:05:53 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:05:53 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:05:53 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:05:53 --> Helper loaded: text_helper
+ERROR - 2013-10-07 16:05:53 --> Severity: Notice  --> Undefined property: news::$mypage /Users/syoujiang/Documents/hhs_web/web2/application/controllers/news.php 38
+DEBUG - 2013-10-07 16:06:27 --> Config Class Initialized
+DEBUG - 2013-10-07 16:06:27 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:06:27 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:06:27 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:06:27 --> URI Class Initialized
+DEBUG - 2013-10-07 16:06:27 --> Router Class Initialized
+DEBUG - 2013-10-07 16:06:27 --> No URI present. Default controller set.
+DEBUG - 2013-10-07 16:06:27 --> Output Class Initialized
+DEBUG - 2013-10-07 16:06:27 --> Security Class Initialized
+DEBUG - 2013-10-07 16:06:27 --> Input Class Initialized
+DEBUG - 2013-10-07 16:06:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:06:27 --> Language Class Initialized
+DEBUG - 2013-10-07 16:06:27 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:06:27 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:06:27 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:06:27 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:06:27 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:06:27 --> Model Class Initialized
+DEBUG - 2013-10-07 16:06:27 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:06:27 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:06:27 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:06:27 --> Helper loaded: text_helper
+ERROR - 2013-10-07 16:06:27 --> Severity: Notice  --> Undefined property: news::$mypage /Users/syoujiang/Documents/hhs_web/web2/application/controllers/news.php 39
+DEBUG - 2013-10-07 16:06:59 --> Config Class Initialized
+DEBUG - 2013-10-07 16:06:59 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:06:59 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:06:59 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:06:59 --> URI Class Initialized
+DEBUG - 2013-10-07 16:06:59 --> Router Class Initialized
+DEBUG - 2013-10-07 16:06:59 --> No URI present. Default controller set.
+DEBUG - 2013-10-07 16:06:59 --> Output Class Initialized
+DEBUG - 2013-10-07 16:06:59 --> Security Class Initialized
+DEBUG - 2013-10-07 16:06:59 --> Input Class Initialized
+DEBUG - 2013-10-07 16:06:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:06:59 --> Language Class Initialized
+DEBUG - 2013-10-07 16:06:59 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:06:59 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:06:59 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:06:59 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:06:59 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:06:59 --> Model Class Initialized
+DEBUG - 2013-10-07 16:06:59 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:06:59 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:06:59 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:06:59 --> Helper loaded: text_helper
+ERROR - 2013-10-07 16:06:59 --> Severity: Notice  --> Undefined property: news::$mypage /Users/syoujiang/Documents/hhs_web/web2/application/controllers/news.php 39
+DEBUG - 2013-10-07 16:07:20 --> Config Class Initialized
+DEBUG - 2013-10-07 16:07:20 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:07:20 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:07:20 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:07:20 --> URI Class Initialized
+DEBUG - 2013-10-07 16:07:20 --> Router Class Initialized
+DEBUG - 2013-10-07 16:07:20 --> No URI present. Default controller set.
+DEBUG - 2013-10-07 16:07:20 --> Output Class Initialized
+DEBUG - 2013-10-07 16:07:20 --> Security Class Initialized
+DEBUG - 2013-10-07 16:07:20 --> Input Class Initialized
+DEBUG - 2013-10-07 16:07:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:07:20 --> Language Class Initialized
+DEBUG - 2013-10-07 16:07:20 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:07:20 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:07:20 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:07:20 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:07:20 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:07:20 --> Model Class Initialized
+DEBUG - 2013-10-07 16:07:20 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:07:20 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:07:20 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:07:20 --> Helper loaded: text_helper
+ERROR - 2013-10-07 16:07:20 --> Severity: Notice  --> Undefined property: News::$mypage /Users/syoujiang/Documents/hhs_web/web2/application/controllers/news.php 39
+DEBUG - 2013-10-07 16:07:22 --> Config Class Initialized
+DEBUG - 2013-10-07 16:07:22 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:07:22 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:07:22 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:07:22 --> URI Class Initialized
+DEBUG - 2013-10-07 16:07:22 --> Router Class Initialized
+DEBUG - 2013-10-07 16:07:22 --> No URI present. Default controller set.
+DEBUG - 2013-10-07 16:07:22 --> Output Class Initialized
+DEBUG - 2013-10-07 16:07:22 --> Security Class Initialized
+DEBUG - 2013-10-07 16:07:22 --> Input Class Initialized
+DEBUG - 2013-10-07 16:07:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:07:22 --> Language Class Initialized
+DEBUG - 2013-10-07 16:07:22 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:07:22 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:07:22 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:07:22 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:07:22 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:07:22 --> Model Class Initialized
+DEBUG - 2013-10-07 16:07:22 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:07:22 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:07:22 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:07:22 --> Helper loaded: text_helper
+ERROR - 2013-10-07 16:07:22 --> Severity: Notice  --> Undefined property: News::$mypage /Users/syoujiang/Documents/hhs_web/web2/application/controllers/news.php 39
+DEBUG - 2013-10-07 16:07:29 --> Config Class Initialized
+DEBUG - 2013-10-07 16:07:29 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:07:29 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:07:29 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:07:29 --> URI Class Initialized
+DEBUG - 2013-10-07 16:07:29 --> Router Class Initialized
+DEBUG - 2013-10-07 16:07:29 --> No URI present. Default controller set.
+DEBUG - 2013-10-07 16:07:29 --> Output Class Initialized
+DEBUG - 2013-10-07 16:07:29 --> Security Class Initialized
+DEBUG - 2013-10-07 16:07:29 --> Input Class Initialized
+DEBUG - 2013-10-07 16:07:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:07:29 --> Language Class Initialized
+DEBUG - 2013-10-07 16:07:29 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:07:29 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:07:29 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:07:29 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:07:29 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:07:29 --> Model Class Initialized
+DEBUG - 2013-10-07 16:07:29 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:07:29 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:07:29 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:07:29 --> Helper loaded: text_helper
+DEBUG - 2013-10-07 16:07:29 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 16:07:29 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 16:07:29 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 16:07:29 --> File loaded: application/views/news/index.php
+DEBUG - 2013-10-07 16:07:29 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 16:07:29 --> Final output sent to browser
+DEBUG - 2013-10-07 16:07:29 --> Total execution time: 0.0332
+DEBUG - 2013-10-07 16:07:51 --> Config Class Initialized
+DEBUG - 2013-10-07 16:07:51 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:07:51 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:07:51 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:07:51 --> URI Class Initialized
+DEBUG - 2013-10-07 16:07:51 --> Router Class Initialized
+DEBUG - 2013-10-07 16:07:51 --> No URI present. Default controller set.
+DEBUG - 2013-10-07 16:07:51 --> Output Class Initialized
+DEBUG - 2013-10-07 16:07:51 --> Security Class Initialized
+DEBUG - 2013-10-07 16:07:51 --> Input Class Initialized
+DEBUG - 2013-10-07 16:07:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:07:51 --> Language Class Initialized
+DEBUG - 2013-10-07 16:07:51 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:07:51 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:07:51 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:07:51 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:07:51 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:07:51 --> Model Class Initialized
+DEBUG - 2013-10-07 16:07:51 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:07:51 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:07:51 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:07:51 --> Helper loaded: text_helper
+ERROR - 2013-10-07 16:07:51 --> Severity: Notice  --> Undefined property: News::$Mypage /Users/syoujiang/Documents/hhs_web/web2/application/controllers/news.php 39
+DEBUG - 2013-10-07 16:07:53 --> Config Class Initialized
+DEBUG - 2013-10-07 16:07:53 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:07:53 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:07:53 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:07:53 --> URI Class Initialized
+DEBUG - 2013-10-07 16:07:53 --> Router Class Initialized
+DEBUG - 2013-10-07 16:07:53 --> No URI present. Default controller set.
+DEBUG - 2013-10-07 16:07:53 --> Output Class Initialized
+DEBUG - 2013-10-07 16:07:53 --> Security Class Initialized
+DEBUG - 2013-10-07 16:07:53 --> Input Class Initialized
+DEBUG - 2013-10-07 16:07:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:07:53 --> Language Class Initialized
+DEBUG - 2013-10-07 16:07:53 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:07:53 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:07:53 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:07:53 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:07:53 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:07:53 --> Model Class Initialized
+DEBUG - 2013-10-07 16:07:53 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:07:53 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:07:53 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:07:53 --> Helper loaded: text_helper
+ERROR - 2013-10-07 16:07:53 --> Severity: Notice  --> Undefined property: News::$Mypage /Users/syoujiang/Documents/hhs_web/web2/application/controllers/news.php 39
+DEBUG - 2013-10-07 16:09:50 --> Config Class Initialized
+DEBUG - 2013-10-07 16:09:50 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:09:50 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:09:50 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:09:50 --> URI Class Initialized
+DEBUG - 2013-10-07 16:09:50 --> Router Class Initialized
+DEBUG - 2013-10-07 16:09:50 --> No URI present. Default controller set.
+DEBUG - 2013-10-07 16:09:50 --> Output Class Initialized
+DEBUG - 2013-10-07 16:09:50 --> Security Class Initialized
+DEBUG - 2013-10-07 16:09:50 --> Input Class Initialized
+DEBUG - 2013-10-07 16:09:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:09:50 --> Language Class Initialized
+DEBUG - 2013-10-07 16:09:50 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:09:50 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:09:50 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:09:50 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:09:50 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:09:50 --> Model Class Initialized
+DEBUG - 2013-10-07 16:09:50 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:09:50 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:09:50 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:09:50 --> Helper loaded: text_helper
+ERROR - 2013-10-07 16:09:50 --> Severity: Notice  --> Undefined property: News::$Mypage /Users/syoujiang/Documents/hhs_web/web2/application/controllers/news.php 39
+DEBUG - 2013-10-07 16:11:35 --> Config Class Initialized
+DEBUG - 2013-10-07 16:11:35 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:11:35 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:11:35 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:11:35 --> URI Class Initialized
+DEBUG - 2013-10-07 16:11:35 --> Router Class Initialized
+DEBUG - 2013-10-07 16:11:35 --> No URI present. Default controller set.
+DEBUG - 2013-10-07 16:11:35 --> Output Class Initialized
+DEBUG - 2013-10-07 16:11:35 --> Security Class Initialized
+DEBUG - 2013-10-07 16:11:35 --> Input Class Initialized
+DEBUG - 2013-10-07 16:11:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:11:35 --> Language Class Initialized
+DEBUG - 2013-10-07 16:11:42 --> Config Class Initialized
+DEBUG - 2013-10-07 16:11:42 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:11:42 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:11:42 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:11:42 --> URI Class Initialized
+DEBUG - 2013-10-07 16:11:42 --> Router Class Initialized
+DEBUG - 2013-10-07 16:11:42 --> No URI present. Default controller set.
+DEBUG - 2013-10-07 16:11:42 --> Output Class Initialized
+DEBUG - 2013-10-07 16:11:42 --> Security Class Initialized
+DEBUG - 2013-10-07 16:11:42 --> Input Class Initialized
+DEBUG - 2013-10-07 16:11:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:11:42 --> Language Class Initialized
+DEBUG - 2013-10-07 16:11:42 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:11:42 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:11:42 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:11:42 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:11:42 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:11:42 --> Model Class Initialized
+DEBUG - 2013-10-07 16:11:42 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:11:42 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:11:42 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:11:42 --> Helper loaded: text_helper
+DEBUG - 2013-10-07 16:11:56 --> Config Class Initialized
+DEBUG - 2013-10-07 16:11:56 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:11:56 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:11:56 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:11:56 --> URI Class Initialized
+DEBUG - 2013-10-07 16:11:56 --> Router Class Initialized
+DEBUG - 2013-10-07 16:11:56 --> No URI present. Default controller set.
+DEBUG - 2013-10-07 16:11:56 --> Output Class Initialized
+DEBUG - 2013-10-07 16:11:56 --> Security Class Initialized
+DEBUG - 2013-10-07 16:11:56 --> Input Class Initialized
+DEBUG - 2013-10-07 16:11:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:11:56 --> Language Class Initialized
+DEBUG - 2013-10-07 16:11:56 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:11:56 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:11:56 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:11:56 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:11:56 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:11:56 --> Model Class Initialized
+DEBUG - 2013-10-07 16:11:56 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:11:56 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:11:56 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:11:56 --> Helper loaded: text_helper
+ERROR - 2013-10-07 16:11:56 --> Severity: Notice  --> Undefined property: News::$Mypage /Users/syoujiang/Documents/hhs_web/web2/application/controllers/news.php 39
+DEBUG - 2013-10-07 16:12:13 --> Config Class Initialized
+DEBUG - 2013-10-07 16:12:13 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:12:13 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:12:13 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:12:13 --> URI Class Initialized
+DEBUG - 2013-10-07 16:12:13 --> Router Class Initialized
+DEBUG - 2013-10-07 16:12:13 --> No URI present. Default controller set.
+DEBUG - 2013-10-07 16:12:13 --> Output Class Initialized
+DEBUG - 2013-10-07 16:12:13 --> Security Class Initialized
+DEBUG - 2013-10-07 16:12:13 --> Input Class Initialized
+DEBUG - 2013-10-07 16:12:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:12:13 --> Language Class Initialized
+DEBUG - 2013-10-07 16:12:13 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:12:13 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:12:13 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:12:13 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:12:13 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:12:13 --> Model Class Initialized
+DEBUG - 2013-10-07 16:12:13 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:12:13 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:12:13 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:12:13 --> Helper loaded: text_helper
+ERROR - 2013-10-07 16:12:13 --> Severity: Notice  --> Undefined property: News::$Mypage /Users/syoujiang/Documents/hhs_web/web2/application/controllers/news.php 40
+DEBUG - 2013-10-07 16:15:27 --> Config Class Initialized
+DEBUG - 2013-10-07 16:15:27 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:15:27 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:15:27 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:15:27 --> URI Class Initialized
+DEBUG - 2013-10-07 16:15:27 --> Router Class Initialized
+DEBUG - 2013-10-07 16:15:27 --> No URI present. Default controller set.
+DEBUG - 2013-10-07 16:15:27 --> Output Class Initialized
+DEBUG - 2013-10-07 16:15:27 --> Security Class Initialized
+DEBUG - 2013-10-07 16:15:27 --> Input Class Initialized
+DEBUG - 2013-10-07 16:15:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:15:27 --> Language Class Initialized
+DEBUG - 2013-10-07 16:15:27 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:15:27 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:15:27 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:15:27 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:15:27 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:15:27 --> Mypage class already loaded. Second attempt ignored.
+DEBUG - 2013-10-07 16:15:27 --> Model Class Initialized
+DEBUG - 2013-10-07 16:15:27 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:15:27 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:15:27 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:15:27 --> Helper loaded: text_helper
+ERROR - 2013-10-07 16:15:27 --> Severity: Notice  --> Undefined property: News::$Mypage /Users/syoujiang/Documents/hhs_web/web2/application/controllers/news.php 40
+DEBUG - 2013-10-07 16:15:31 --> Config Class Initialized
+DEBUG - 2013-10-07 16:15:31 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:15:31 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:15:31 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:15:31 --> URI Class Initialized
+DEBUG - 2013-10-07 16:15:31 --> Router Class Initialized
+DEBUG - 2013-10-07 16:15:31 --> No URI present. Default controller set.
+DEBUG - 2013-10-07 16:15:31 --> Output Class Initialized
+DEBUG - 2013-10-07 16:15:31 --> Security Class Initialized
+DEBUG - 2013-10-07 16:15:31 --> Input Class Initialized
+DEBUG - 2013-10-07 16:15:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:15:31 --> Language Class Initialized
+DEBUG - 2013-10-07 16:15:31 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:15:31 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:15:31 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:15:31 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:15:31 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:15:31 --> Mypage class already loaded. Second attempt ignored.
+DEBUG - 2013-10-07 16:15:31 --> Model Class Initialized
+DEBUG - 2013-10-07 16:15:31 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:15:31 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:15:31 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:15:31 --> Helper loaded: text_helper
+ERROR - 2013-10-07 16:15:31 --> Severity: Notice  --> Undefined property: News::$Mypage /Users/syoujiang/Documents/hhs_web/web2/application/controllers/news.php 40
+DEBUG - 2013-10-07 16:15:47 --> Config Class Initialized
+DEBUG - 2013-10-07 16:15:47 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:15:47 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:15:47 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:15:47 --> URI Class Initialized
+DEBUG - 2013-10-07 16:15:47 --> Router Class Initialized
+DEBUG - 2013-10-07 16:15:47 --> No URI present. Default controller set.
+DEBUG - 2013-10-07 16:15:47 --> Output Class Initialized
+DEBUG - 2013-10-07 16:15:47 --> Security Class Initialized
+DEBUG - 2013-10-07 16:15:47 --> Input Class Initialized
+DEBUG - 2013-10-07 16:15:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:15:47 --> Language Class Initialized
+DEBUG - 2013-10-07 16:15:47 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:15:47 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:15:47 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:15:47 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:15:47 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:15:47 --> Model Class Initialized
+DEBUG - 2013-10-07 16:15:47 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:15:47 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:15:47 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:15:47 --> Helper loaded: text_helper
+ERROR - 2013-10-07 16:15:47 --> Severity: Notice  --> Undefined property: News::$Mypage /Users/syoujiang/Documents/hhs_web/web2/application/controllers/news.php 39
+DEBUG - 2013-10-07 16:15:54 --> Config Class Initialized
+DEBUG - 2013-10-07 16:15:54 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:15:54 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:15:54 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:15:54 --> URI Class Initialized
+DEBUG - 2013-10-07 16:15:54 --> Router Class Initialized
+DEBUG - 2013-10-07 16:15:54 --> No URI present. Default controller set.
+DEBUG - 2013-10-07 16:15:54 --> Output Class Initialized
+DEBUG - 2013-10-07 16:15:54 --> Security Class Initialized
+DEBUG - 2013-10-07 16:15:54 --> Input Class Initialized
+DEBUG - 2013-10-07 16:15:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:15:54 --> Language Class Initialized
+DEBUG - 2013-10-07 16:15:54 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:15:54 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:15:54 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:15:54 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:15:54 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:15:54 --> Model Class Initialized
+DEBUG - 2013-10-07 16:15:54 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:15:54 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:15:54 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:15:54 --> Helper loaded: text_helper
+DEBUG - 2013-10-07 16:15:54 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 16:15:54 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 16:15:54 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 16:15:54 --> File loaded: application/views/news/index.php
+DEBUG - 2013-10-07 16:15:54 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 16:15:54 --> Final output sent to browser
+DEBUG - 2013-10-07 16:15:54 --> Total execution time: 0.0362
+DEBUG - 2013-10-07 16:16:05 --> Config Class Initialized
+DEBUG - 2013-10-07 16:16:05 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:16:05 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:16:05 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:16:05 --> URI Class Initialized
+DEBUG - 2013-10-07 16:16:05 --> Router Class Initialized
+DEBUG - 2013-10-07 16:16:05 --> Output Class Initialized
+DEBUG - 2013-10-07 16:16:05 --> Security Class Initialized
+DEBUG - 2013-10-07 16:16:05 --> Input Class Initialized
+DEBUG - 2013-10-07 16:16:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:16:05 --> Language Class Initialized
+DEBUG - 2013-10-07 16:16:05 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:16:05 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:16:05 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:16:05 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:16:05 --> Model Class Initialized
+DEBUG - 2013-10-07 16:16:05 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:16:05 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:16:05 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:16:05 --> Mypage class already loaded. Second attempt ignored.
+DEBUG - 2013-10-07 16:16:05 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 16:16:05 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 16:16:05 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 16:16:05 --> File loaded: application/views/news_type/index.php
+DEBUG - 2013-10-07 16:16:05 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 16:16:05 --> Final output sent to browser
+DEBUG - 2013-10-07 16:16:05 --> Total execution time: 0.0289
+DEBUG - 2013-10-07 16:16:08 --> Config Class Initialized
+DEBUG - 2013-10-07 16:16:08 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:16:08 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:16:08 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:16:08 --> URI Class Initialized
+DEBUG - 2013-10-07 16:16:08 --> Router Class Initialized
+DEBUG - 2013-10-07 16:16:08 --> Output Class Initialized
+DEBUG - 2013-10-07 16:16:08 --> Security Class Initialized
+DEBUG - 2013-10-07 16:16:08 --> Input Class Initialized
+DEBUG - 2013-10-07 16:16:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:16:08 --> Language Class Initialized
+DEBUG - 2013-10-07 16:16:08 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:16:08 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:16:08 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:16:08 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:16:08 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:16:08 --> Model Class Initialized
+DEBUG - 2013-10-07 16:16:08 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:16:08 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:16:08 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:16:08 --> Helper loaded: text_helper
+ERROR - 2013-10-07 16:16:08 --> Severity: Notice  --> Undefined property: News::$Mypage /Users/syoujiang/Documents/hhs_web/web2/application/controllers/news.php 39
+DEBUG - 2013-10-07 16:31:23 --> Config Class Initialized
+DEBUG - 2013-10-07 16:31:23 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:31:23 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:31:23 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:31:23 --> URI Class Initialized
+DEBUG - 2013-10-07 16:31:23 --> Router Class Initialized
+DEBUG - 2013-10-07 16:31:23 --> Output Class Initialized
+DEBUG - 2013-10-07 16:31:23 --> Security Class Initialized
+DEBUG - 2013-10-07 16:31:23 --> Input Class Initialized
+DEBUG - 2013-10-07 16:31:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:31:23 --> Language Class Initialized
+DEBUG - 2013-10-07 16:31:23 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:31:23 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:31:23 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:31:23 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:31:23 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:31:23 --> Model Class Initialized
+DEBUG - 2013-10-07 16:31:23 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:31:23 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:31:23 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:31:23 --> Helper loaded: text_helper
+ERROR - 2013-10-07 16:31:23 --> Severity: Notice  --> Undefined property: News::$Mypage /Users/syoujiang/Documents/hhs_web/web2/application/controllers/news.php 39
+DEBUG - 2013-10-07 16:33:14 --> Config Class Initialized
+DEBUG - 2013-10-07 16:33:14 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:33:14 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:33:14 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:33:14 --> URI Class Initialized
+DEBUG - 2013-10-07 16:33:14 --> Router Class Initialized
+DEBUG - 2013-10-07 16:33:14 --> Output Class Initialized
+DEBUG - 2013-10-07 16:33:14 --> Security Class Initialized
+DEBUG - 2013-10-07 16:33:14 --> Input Class Initialized
+DEBUG - 2013-10-07 16:33:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:33:14 --> Language Class Initialized
+DEBUG - 2013-10-07 16:33:14 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:33:14 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:33:14 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:33:14 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:33:14 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:33:14 --> Model Class Initialized
+DEBUG - 2013-10-07 16:33:14 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:33:14 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:33:14 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:33:14 --> Helper loaded: text_helper
+DEBUG - 2013-10-07 16:33:14 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 16:33:14 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 16:33:14 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 16:33:14 --> File loaded: application/views/news/index.php
+DEBUG - 2013-10-07 16:33:14 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 16:33:14 --> Final output sent to browser
+DEBUG - 2013-10-07 16:33:14 --> Total execution time: 0.0412
+DEBUG - 2013-10-07 16:33:30 --> Config Class Initialized
+DEBUG - 2013-10-07 16:33:30 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:33:30 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:33:30 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:33:30 --> URI Class Initialized
+DEBUG - 2013-10-07 16:33:30 --> Router Class Initialized
+DEBUG - 2013-10-07 16:33:30 --> Output Class Initialized
+DEBUG - 2013-10-07 16:33:30 --> Security Class Initialized
+DEBUG - 2013-10-07 16:33:30 --> Input Class Initialized
+DEBUG - 2013-10-07 16:33:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:33:30 --> Language Class Initialized
+DEBUG - 2013-10-07 16:33:30 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:33:30 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:33:30 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:33:30 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:33:30 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:33:30 --> Model Class Initialized
+DEBUG - 2013-10-07 16:33:30 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:33:30 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:33:30 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:33:30 --> Helper loaded: text_helper
+DEBUG - 2013-10-07 16:33:30 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 16:33:30 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 16:33:30 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 16:33:30 --> File loaded: application/views/news/index.php
+DEBUG - 2013-10-07 16:33:30 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 16:33:30 --> Final output sent to browser
+DEBUG - 2013-10-07 16:33:30 --> Total execution time: 0.0340
+DEBUG - 2013-10-07 16:33:33 --> Config Class Initialized
+DEBUG - 2013-10-07 16:33:33 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:33:33 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:33:33 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:33:33 --> URI Class Initialized
+DEBUG - 2013-10-07 16:33:33 --> Router Class Initialized
+DEBUG - 2013-10-07 16:33:33 --> Output Class Initialized
+DEBUG - 2013-10-07 16:33:33 --> Security Class Initialized
+DEBUG - 2013-10-07 16:33:33 --> Input Class Initialized
+DEBUG - 2013-10-07 16:33:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:33:33 --> Language Class Initialized
+DEBUG - 2013-10-07 16:33:33 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:33:33 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:33:33 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:33:33 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:33:33 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:33:33 --> Model Class Initialized
+DEBUG - 2013-10-07 16:33:33 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:33:33 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:33:33 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:33:33 --> Helper loaded: text_helper
+DEBUG - 2013-10-07 16:33:33 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 16:33:33 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 16:33:33 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 16:33:33 --> File loaded: application/views/news/index.php
+DEBUG - 2013-10-07 16:33:33 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 16:33:33 --> Final output sent to browser
+DEBUG - 2013-10-07 16:33:33 --> Total execution time: 0.0338
+DEBUG - 2013-10-07 16:33:34 --> Config Class Initialized
+DEBUG - 2013-10-07 16:33:34 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:33:34 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:33:34 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:33:34 --> URI Class Initialized
+DEBUG - 2013-10-07 16:33:34 --> Router Class Initialized
+DEBUG - 2013-10-07 16:33:34 --> Output Class Initialized
+DEBUG - 2013-10-07 16:33:34 --> Security Class Initialized
+DEBUG - 2013-10-07 16:33:34 --> Input Class Initialized
+DEBUG - 2013-10-07 16:33:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:33:34 --> Language Class Initialized
+DEBUG - 2013-10-07 16:33:34 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:33:34 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:33:34 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:33:34 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:33:34 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:33:34 --> Model Class Initialized
+DEBUG - 2013-10-07 16:33:34 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:33:34 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:33:34 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:33:34 --> Helper loaded: text_helper
+DEBUG - 2013-10-07 16:33:34 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 16:33:34 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 16:33:34 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 16:33:34 --> File loaded: application/views/news/index.php
+DEBUG - 2013-10-07 16:33:34 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 16:33:34 --> Final output sent to browser
+DEBUG - 2013-10-07 16:33:34 --> Total execution time: 0.0333
+DEBUG - 2013-10-07 16:33:35 --> Config Class Initialized
+DEBUG - 2013-10-07 16:33:35 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:33:35 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:33:35 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:33:35 --> URI Class Initialized
+DEBUG - 2013-10-07 16:33:35 --> Router Class Initialized
+DEBUG - 2013-10-07 16:33:35 --> Output Class Initialized
+DEBUG - 2013-10-07 16:33:35 --> Security Class Initialized
+DEBUG - 2013-10-07 16:33:35 --> Input Class Initialized
+DEBUG - 2013-10-07 16:33:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:33:35 --> Language Class Initialized
+DEBUG - 2013-10-07 16:33:35 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:33:35 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:33:35 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:33:35 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:33:35 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:33:35 --> Model Class Initialized
+DEBUG - 2013-10-07 16:33:35 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:33:35 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:33:35 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:33:35 --> Helper loaded: text_helper
+DEBUG - 2013-10-07 16:33:35 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 16:33:35 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 16:33:35 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 16:33:35 --> File loaded: application/views/news/index.php
+DEBUG - 2013-10-07 16:33:35 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 16:33:35 --> Final output sent to browser
+DEBUG - 2013-10-07 16:33:35 --> Total execution time: 0.0310
+DEBUG - 2013-10-07 16:33:36 --> Config Class Initialized
+DEBUG - 2013-10-07 16:33:36 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:33:36 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:33:36 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:33:36 --> URI Class Initialized
+DEBUG - 2013-10-07 16:33:36 --> Router Class Initialized
+DEBUG - 2013-10-07 16:33:36 --> Output Class Initialized
+DEBUG - 2013-10-07 16:33:36 --> Security Class Initialized
+DEBUG - 2013-10-07 16:33:36 --> Input Class Initialized
+DEBUG - 2013-10-07 16:33:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:33:36 --> Language Class Initialized
+DEBUG - 2013-10-07 16:33:36 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:33:36 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:33:36 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:33:36 --> Model Class Initialized
+DEBUG - 2013-10-07 16:33:36 --> Model Class Initialized
+DEBUG - 2013-10-07 16:33:36 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:33:36 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:33:36 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:33:36 --> Mypage class already loaded. Second attempt ignored.
+DEBUG - 2013-10-07 16:33:36 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 16:33:36 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 16:33:36 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 16:33:36 --> File loaded: application/views/fabao/index.php
+DEBUG - 2013-10-07 16:33:36 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 16:33:36 --> Final output sent to browser
+DEBUG - 2013-10-07 16:33:36 --> Total execution time: 0.0302
+DEBUG - 2013-10-07 16:33:39 --> Config Class Initialized
+DEBUG - 2013-10-07 16:33:39 --> Hooks Class Initialized
+DEBUG - 2013-10-07 16:33:39 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 16:33:39 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 16:33:39 --> URI Class Initialized
+DEBUG - 2013-10-07 16:33:39 --> Router Class Initialized
+DEBUG - 2013-10-07 16:33:39 --> Output Class Initialized
+DEBUG - 2013-10-07 16:33:39 --> Security Class Initialized
+DEBUG - 2013-10-07 16:33:39 --> Input Class Initialized
+DEBUG - 2013-10-07 16:33:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 16:33:39 --> Language Class Initialized
+DEBUG - 2013-10-07 16:33:39 --> Loader Class Initialized
+DEBUG - 2013-10-07 16:33:39 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:33:39 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:33:39 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 16:33:39 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 16:33:39 --> Model Class Initialized
+DEBUG - 2013-10-07 16:33:39 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 16:33:39 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 16:33:39 --> Controller Class Initialized
+DEBUG - 2013-10-07 16:33:39 --> Helper loaded: text_helper
+DEBUG - 2013-10-07 16:33:39 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 16:33:39 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 16:33:39 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 16:33:39 --> File loaded: application/views/news/index.php
+DEBUG - 2013-10-07 16:33:39 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 16:33:39 --> Final output sent to browser
+DEBUG - 2013-10-07 16:33:39 --> Total execution time: 0.0324

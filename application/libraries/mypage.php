@@ -1,6 +1,6 @@
 <?php if (!defined('BASEPATH')) exit('No direct script access allowed'); 
 
-class mypage extends CI_Controller{
+class Mypage extends CI_Controller{
      
      /**
       * config
