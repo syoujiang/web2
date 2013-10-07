@@ -14,7 +14,7 @@ class news_model extends CI_Model
 	{
 		//$type_data=$this->getOneNewsType($this->input->post('shirts'));
 		$tmp=$this->input->post('zx_content_phone');
-		$tmp =preg_replace("/\s/","",$tmp);
+		$tmp =preg_replace("/<br><br><br>/","<br>",$tmp);
 		$data = array(
 		'zx_title' => $this->input->post('title'),
 		'zx_type' => $this->input->post('shirts'),
@@ -145,7 +145,7 @@ class news_model extends CI_Model
 	{
 		$slug = url_title($this->input->post('title'), 'dash', TRUE);
 		$tmp=$this->input->post('zx_content_phone');
-		$tmp =preg_replace("/<br>/","\\n",$tmp);
+		$tmp =preg_replace("/<br><br><br>/","<br>",$tmp);
                 $data = array(
 			'zx_title' => $this->input->post('title'),
 			'zx_type' => $this->input->post('shirts'),

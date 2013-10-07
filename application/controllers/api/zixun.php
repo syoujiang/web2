@@ -115,6 +115,7 @@ class zixun extends REST_Controller
         if($content)
         { 
             $content['content_url']=$this->qbox->GetDownloadURL2($content['content_fkey']);
+            $content['zx_content_phone']=str_replace("<br>","\\\\n",$content['zx_content_phone']);
             if(!$this->get('token'))
             {
                 $content['collect_flag']=0;
