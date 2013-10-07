@@ -145,7 +145,7 @@ class news_model extends CI_Model
 	{
 		$slug = url_title($this->input->post('title'), 'dash', TRUE);
 		$tmp=$this->input->post('zx_content_phone');
-		$tmp =preg_replace("/\s/","",$tmp);
+		$tmp =preg_replace("/<br>/","\\n",$tmp);
                 $data = array(
 			'zx_title' => $this->input->post('title'),
 			'zx_type' => $this->input->post('shirts'),

@@ -273,8 +273,17 @@ $(function()
                 } 
             });
             K('input[name=getText]').click(function(e) {
-                    //myform.zx_content_phone.value=editor2.text().replace("\r\n","\\r\\n");
-                    myform.zx_content_phone.value=editor2.text().replace(/[\r\n\r\n\r\n]/g,"<br>");
+                    str=editor2.text();
+                    var re = /\n/gm;
+                    var reg   =   /\s/g;     
+                     var ss   =   str.replace(reg,   "");   
+                    if(str.match(re))
+                    {
+
+                        alert("匹配\r\n的次数：" + str.match(re).length);
+
+                    }
+                    myform.zx_content_phone.value=editor2.text().replace(/\n/g,"<br>");
                     alert(myform.zx_content_phone.value);
                     myform.submit();
                 });

@@ -364,7 +364,7 @@ class User extends REST_Controller {
                                 $app="经书助印";
                                 break;
                         case '1':
-                                $app="捐助";
+                                $app="放生";
                                 break;				
                         default:
                                 break;
