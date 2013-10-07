@@ -49,7 +49,8 @@ class Alipay extends Alipay_Controller {
 	{
 		log_message('debug','call_back_url ');
 		// $this->_call_back_url();
-					//商户订单号
+		
+                //商户订单号
 		$out_trade_no = $_GET['out_trade_no'];
 
 		//支付宝交易号

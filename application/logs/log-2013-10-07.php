@@ -13184,3 +13184,153 @@ DEBUG - 2013-10-07 16:33:39 --> File loaded: application/views/news/index.php
 DEBUG - 2013-10-07 16:33:39 --> File loaded: application/views/templates/footer.php
 DEBUG - 2013-10-07 16:33:39 --> Final output sent to browser
 DEBUG - 2013-10-07 16:33:39 --> Total execution time: 0.0324
+DEBUG - 2013-10-07 18:42:39 --> Config Class Initialized
+DEBUG - 2013-10-07 18:42:39 --> Hooks Class Initialized
+DEBUG - 2013-10-07 18:42:39 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 18:42:39 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 18:42:39 --> URI Class Initialized
+DEBUG - 2013-10-07 18:42:39 --> Router Class Initialized
+DEBUG - 2013-10-07 18:42:39 --> Output Class Initialized
+DEBUG - 2013-10-07 18:42:39 --> Security Class Initialized
+DEBUG - 2013-10-07 18:42:39 --> Input Class Initialized
+DEBUG - 2013-10-07 18:42:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 18:42:39 --> Language Class Initialized
+DEBUG - 2013-10-07 18:42:39 --> Loader Class Initialized
+DEBUG - 2013-10-07 18:42:39 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 18:42:39 --> Controller Class Initialized
+DEBUG - 2013-10-07 18:42:39 --> Config file loaded: application/config/rest.php
+DEBUG - 2013-10-07 18:42:39 --> Helper loaded: inflector_helper
+DEBUG - 2013-10-07 18:42:39 --> Model Class Initialized
+DEBUG - 2013-10-07 18:42:39 --> Helper loaded: date_helper
+DEBUG - 2013-10-07 18:42:39 --> Model Class Initialized
+DEBUG - 2013-10-07 18:42:39 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 18:42:39 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 18:42:39 --> Controller Class Initialized
+DEBUG - 2013-10-07 18:42:39 --> Model Class Initialized
+DEBUG - 2013-10-07 18:42:39 --> XSS Filtering completed
+DEBUG - 2013-10-07 18:42:39 --> token sevasY4xyuUGGJi20uwUpXraweasWABq
+DEBUG - 2013-10-07 18:42:39 --> start check token is valid
+DEBUG - 2013-10-07 18:42:39 --> XSS Filtering completed
+DEBUG - 2013-10-07 18:42:39 --> XSS Filtering completed
+DEBUG - 2013-10-07 18:42:39 --> XSS Filtering completed
+DEBUG - 2013-10-07 18:42:39 --> order sn client112312312
+DEBUG - 2013-10-07 18:48:23 --> Config Class Initialized
+DEBUG - 2013-10-07 18:48:23 --> Hooks Class Initialized
+DEBUG - 2013-10-07 18:48:23 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 18:48:23 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 18:48:23 --> URI Class Initialized
+DEBUG - 2013-10-07 18:48:23 --> Router Class Initialized
+DEBUG - 2013-10-07 18:48:23 --> Output Class Initialized
+DEBUG - 2013-10-07 18:48:23 --> Security Class Initialized
+DEBUG - 2013-10-07 18:48:23 --> Input Class Initialized
+DEBUG - 2013-10-07 18:48:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 18:48:23 --> Language Class Initialized
+DEBUG - 2013-10-07 18:48:23 --> Loader Class Initialized
+DEBUG - 2013-10-07 18:48:23 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 18:48:23 --> Controller Class Initialized
+DEBUG - 2013-10-07 18:48:23 --> Config file loaded: application/config/rest.php
+DEBUG - 2013-10-07 18:48:23 --> Helper loaded: inflector_helper
+DEBUG - 2013-10-07 18:48:23 --> Model Class Initialized
+DEBUG - 2013-10-07 18:48:23 --> Helper loaded: date_helper
+DEBUG - 2013-10-07 18:48:23 --> Model Class Initialized
+DEBUG - 2013-10-07 18:48:23 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 18:48:23 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 18:48:23 --> Controller Class Initialized
+DEBUG - 2013-10-07 18:48:23 --> Model Class Initialized
+DEBUG - 2013-10-07 18:48:23 --> XSS Filtering completed
+DEBUG - 2013-10-07 18:48:23 --> token sdfas@gmail.com
+DEBUG - 2013-10-07 18:48:23 --> XSS Filtering completed
+DEBUG - 2013-10-07 18:48:23 --> XSS Filtering completed
+DEBUG - 2013-10-07 18:48:23 --> XSS Filtering completed
+DEBUG - 2013-10-07 18:48:23 --> order sn client112312312
+DEBUG - 2013-10-07 18:48:23 --> DB Transaction Failure
+ERROR - 2013-10-07 18:48:23 --> Query error: Duplicate entry 'client112312312' for key 'PRIMARY'
+DEBUG - 2013-10-07 18:48:23 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-10-07 18:48:52 --> Config Class Initialized
+DEBUG - 2013-10-07 18:48:52 --> Hooks Class Initialized
+DEBUG - 2013-10-07 18:48:52 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 18:48:52 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 18:48:52 --> URI Class Initialized
+DEBUG - 2013-10-07 18:48:52 --> Router Class Initialized
+DEBUG - 2013-10-07 18:48:52 --> Output Class Initialized
+DEBUG - 2013-10-07 18:48:52 --> Security Class Initialized
+DEBUG - 2013-10-07 18:48:52 --> Input Class Initialized
+DEBUG - 2013-10-07 18:48:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 18:48:52 --> Language Class Initialized
+DEBUG - 2013-10-07 18:48:52 --> Loader Class Initialized
+DEBUG - 2013-10-07 18:48:52 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 18:48:52 --> Controller Class Initialized
+DEBUG - 2013-10-07 18:48:52 --> Config file loaded: application/config/rest.php
+DEBUG - 2013-10-07 18:48:52 --> Helper loaded: inflector_helper
+DEBUG - 2013-10-07 18:48:52 --> Model Class Initialized
+DEBUG - 2013-10-07 18:48:52 --> Helper loaded: date_helper
+DEBUG - 2013-10-07 18:48:52 --> Model Class Initialized
+DEBUG - 2013-10-07 18:48:52 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 18:48:52 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 18:48:52 --> Controller Class Initialized
+DEBUG - 2013-10-07 18:48:52 --> Model Class Initialized
+DEBUG - 2013-10-07 18:48:52 --> XSS Filtering completed
+DEBUG - 2013-10-07 18:48:52 --> token sdfas@gmail.com
+DEBUG - 2013-10-07 18:48:52 --> XSS Filtering completed
+DEBUG - 2013-10-07 18:48:52 --> XSS Filtering completed
+DEBUG - 2013-10-07 18:48:52 --> XSS Filtering completed
+DEBUG - 2013-10-07 18:48:52 --> order sn client1123123121
+DEBUG - 2013-10-07 18:48:54 --> Config Class Initialized
+DEBUG - 2013-10-07 18:48:54 --> Hooks Class Initialized
+DEBUG - 2013-10-07 18:48:54 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 18:48:54 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 18:48:54 --> URI Class Initialized
+DEBUG - 2013-10-07 18:48:54 --> Router Class Initialized
+DEBUG - 2013-10-07 18:48:54 --> Output Class Initialized
+DEBUG - 2013-10-07 18:48:54 --> Security Class Initialized
+DEBUG - 2013-10-07 18:48:54 --> Input Class Initialized
+DEBUG - 2013-10-07 18:48:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 18:48:54 --> Language Class Initialized
+DEBUG - 2013-10-07 18:48:54 --> Loader Class Initialized
+DEBUG - 2013-10-07 18:48:54 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 18:48:54 --> Controller Class Initialized
+DEBUG - 2013-10-07 18:48:54 --> Config file loaded: application/config/rest.php
+DEBUG - 2013-10-07 18:48:54 --> Helper loaded: inflector_helper
+DEBUG - 2013-10-07 18:48:54 --> Model Class Initialized
+DEBUG - 2013-10-07 18:48:54 --> Helper loaded: date_helper
+DEBUG - 2013-10-07 18:48:54 --> Model Class Initialized
+DEBUG - 2013-10-07 18:48:54 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 18:48:54 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 18:48:54 --> Controller Class Initialized
+DEBUG - 2013-10-07 18:48:54 --> Model Class Initialized
+DEBUG - 2013-10-07 18:48:54 --> token hhs_unknow
+DEBUG - 2013-10-07 18:48:54 --> XSS Filtering completed
+DEBUG - 2013-10-07 18:48:54 --> XSS Filtering completed
+DEBUG - 2013-10-07 18:48:54 --> XSS Filtering completed
+DEBUG - 2013-10-07 18:48:54 --> order sn client1123123121
+DEBUG - 2013-10-07 18:48:54 --> DB Transaction Failure
+ERROR - 2013-10-07 18:48:54 --> Query error: Duplicate entry 'client1123123121' for key 'PRIMARY'
+DEBUG - 2013-10-07 18:48:54 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-10-07 18:49:09 --> Config Class Initialized
+DEBUG - 2013-10-07 18:49:09 --> Hooks Class Initialized
+DEBUG - 2013-10-07 18:49:09 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 18:49:09 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 18:49:09 --> URI Class Initialized
+DEBUG - 2013-10-07 18:49:09 --> Router Class Initialized
+DEBUG - 2013-10-07 18:49:09 --> Output Class Initialized
+DEBUG - 2013-10-07 18:49:09 --> Security Class Initialized
+DEBUG - 2013-10-07 18:49:09 --> Input Class Initialized
+DEBUG - 2013-10-07 18:49:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 18:49:09 --> Language Class Initialized
+DEBUG - 2013-10-07 18:49:09 --> Loader Class Initialized
+DEBUG - 2013-10-07 18:49:09 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 18:49:09 --> Controller Class Initialized
+DEBUG - 2013-10-07 18:49:09 --> Config file loaded: application/config/rest.php
+DEBUG - 2013-10-07 18:49:09 --> Helper loaded: inflector_helper
+DEBUG - 2013-10-07 18:49:09 --> Model Class Initialized
+DEBUG - 2013-10-07 18:49:09 --> Helper loaded: date_helper
+DEBUG - 2013-10-07 18:49:09 --> Model Class Initialized
+DEBUG - 2013-10-07 18:49:09 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 18:49:09 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 18:49:09 --> Controller Class Initialized
+DEBUG - 2013-10-07 18:49:09 --> Model Class Initialized
+DEBUG - 2013-10-07 18:49:09 --> token hhs_unknow
+DEBUG - 2013-10-07 18:49:09 --> XSS Filtering completed
+DEBUG - 2013-10-07 18:49:09 --> XSS Filtering completed
+DEBUG - 2013-10-07 18:49:09 --> XSS Filtering completed
+DEBUG - 2013-10-07 18:49:09 --> order sn client1123123122

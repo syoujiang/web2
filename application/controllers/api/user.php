@@ -334,62 +334,57 @@ class User extends REST_Controller {
 			}
 		}
 	}
+
 	//create alipay order
 	public function alipay_post()
 	{
 		$token=$this->post("token");
 		if($token=="")
 		{
+                    $mail="hhs_unknow";
+		}
+                else
+                {
+                    $mail=$this->user_model->getMail($token);
+                    if($mail == null)
+                    {
 			$this->response(array('status' => false, 'error' => 'Not authorized'), 401);
-		}
-		else
-		{
-			log_message('debug','token '.$token);
-			log_message('debug','start check token is valid');
-			$mail=$this->user_model->getMail($token);
-			if($mail == null)
-			{
-				$this->response(array('status' => false, 'error' => 'Not authorized'), 401);
-			}
-			else
-			{
-				$price=0;
-				$type=$this->post("type");
-				$number=$this->post("custom_price");
-				$app=$this->post("custom_app");
-				switch ($type) {
-					case 'A':
-						$price=50*$number;
-						break;
-					case 'B':
-						$price=100*$number;
-						break;
-					case 'C':
-						$price=500*$number;
-						break;
-					case 'D':
-						$price=$number;
-						break;					
-					default:
-						$price=0;
-						break;
-				}
-				if($price>0)
-				{	
-					$sendmsg=$this->user_model->create_alipay($mail,$price,$app,$order_sn);
-					$message = array('order_sn' => $order_sn,
-										'result' => '1',
-										'reason' => "订单生产成功");
-					$this->response($message, 200); // 200 being the HTTP response code
-				}
-				else
-				{
-					$message = array('result' => '0',
-									'reason' => "捐助的数量要>0");
-									$this->response($message, 200); // 200 being the HTTP response code
-				}
-			}
-		}
+                        return;
+                    }
+                }
+                log_message('debug','token '.$mail);
+
+
+                $price=0;
+                $type=$this->post("type");
+                $price=$this->post("custom_price");
+                $client_sn=$this->post("client_sn");
+                switch ($type) {
+                        case '0':
+                                $app="经书助印";
+                                break;
+                        case '1':
+                                $app="捐助";
+                                break;				
+                        default:
+                                break;
+                }
+                if($price>0)
+                {	
+                        $sendmsg=$this->user_model->create_alipay_client($mail,$price,$app,$client_sn);
+                        $message = array('order_sn' => $client_sn,
+                                                                'result' => '1',
+                                                                'reason' => "订单生产成功");
+                        $this->response($message, 200); // 200 being the HTTP response code
+                }
+                else
+                {
+                        $message = array('result' => '0',
+                                                        'reason' => "捐助的数量要>0");
+                                                        $this->response($message, 200); // 200 being the HTTP response code
+                }
+
+
 	}
 }
 

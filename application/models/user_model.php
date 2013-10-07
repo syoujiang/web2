@@ -154,6 +154,18 @@ class User_model extends CI_Model {
    		}
    		return null;
  	}
+        public function create_alipay_client($mail,$price,$app,$order_sn)
+ 	{
+ 		log_message('debug','order sn '.$order_sn);
+ 		$data = array(
+               'order_number' => $order_sn ,
+               'mail' => $mail ,
+               'price' => $price,
+               'price_app' => $app,
+               'order_status' => "1"
+            );
+            $this->db->insert('hhs_alipay_order', $data); 
+ 	}
  	public function create_alipay($mail,$price,$app,&$order_sn)
  	{
  		$order_sn = date('ymdHis').substr(microtime(),2,4);
