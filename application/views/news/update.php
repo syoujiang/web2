@@ -273,8 +273,9 @@ $(function()
                 } 
             });
             K('input[name=getText]').click(function(e) {
-                    myform.zx_content_phone.value=editor2.text().replace("\r\n","\\r\\n");
-                  //  alert(myform.zx_content_phone.value);
+                    //myform.zx_content_phone.value=editor2.text().replace("\r\n","\\r\\n");
+                    myform.zx_content_phone.value=editor2.text().replace(/[\r\n\r\n\r\n]/g,"<br>");
+                    alert(myform.zx_content_phone.value);
                     myform.submit();
                 });
         });

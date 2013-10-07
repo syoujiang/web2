@@ -145,7 +145,7 @@ class news_model extends CI_Model
 		$slug = url_title($this->input->post('title'), 'dash', TRUE);
 		$tmp=$this->input->post('zx_content_phone');
 		$tmp =preg_replace("/\s/","",$tmp);
-		$data = array(
+                $data = array(
 			'zx_title' => $this->input->post('title'),
 			'zx_type' => $this->input->post('shirts'),
 			'zx_summary' => $this->input->post('zx_summary'),
@@ -272,6 +272,35 @@ class news_model extends CI_Model
 	public function delete_news_from_collect($mail,$id)
 	{
 		$this->db->delete('hhs_news_collect',array('mail' => $mail,'id' => $id));
+	}
+        public function check_news_to_collect($token,$id)
+	{
+            $query = $this->db->get_where('hhs_users_token', array('token' => $token));
+            foreach ($query->result_array() as $row)
+            {
+                $mail= $row['mail'];
+            }
+            if($mail == null)
+            {
+                return false;
+            }
+            else
+            {
+		$data = array(
+			'mail' => $mail,
+			'id' => $id
+			);
+
+		$query = $this->db->get_where('hhs_news_collect',$data);
+		if($query->num_rows()==0)
+		{
+			return false;
+		}
+                else {
+                    return true;
+                }
+
+            }
 	}
 }
 ?>

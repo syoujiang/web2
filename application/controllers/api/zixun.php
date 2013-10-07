@@ -115,7 +115,21 @@ class zixun extends REST_Controller
         if($content)
         { 
             $content['content_url']=$this->qbox->GetDownloadURL2($content['content_fkey']);
-            $content['collect']=1;
+            if(!$this->get('token'))
+            {
+                $content['collect_flag']=0;
+            }
+            else
+            {
+                if($this->news_model->check_news_to_collect($this->get('token'),$this->get('id')))
+                {   
+                    $content['collect_flag']=1;
+                }
+                else {
+                   $content['collect_flag']=0;
+               }
+            }
+            
             $this->response($content, 200); // 200 being the HTTP response code
         }
 
