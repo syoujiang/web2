@@ -12292,3 +12292,79 @@ DEBUG - 2013-10-07 15:21:09 --> get_news_by_mail_api 110
 DEBUG - 2013-10-07 15:21:09 --> get_news_by_mail_api 111
 DEBUG - 2013-10-07 15:21:09 --> get_news_by_mail_api 14
 DEBUG - 2013-10-07 15:21:09 --> get_news_by_mail_api 15
+DEBUG - 2013-10-07 15:40:14 --> Config Class Initialized
+DEBUG - 2013-10-07 15:40:14 --> Hooks Class Initialized
+DEBUG - 2013-10-07 15:40:14 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 15:40:14 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 15:40:14 --> URI Class Initialized
+DEBUG - 2013-10-07 15:40:14 --> Router Class Initialized
+DEBUG - 2013-10-07 15:40:14 --> Output Class Initialized
+DEBUG - 2013-10-07 15:40:14 --> Security Class Initialized
+DEBUG - 2013-10-07 15:40:14 --> Input Class Initialized
+DEBUG - 2013-10-07 15:40:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 15:40:14 --> Language Class Initialized
+DEBUG - 2013-10-07 15:40:14 --> Loader Class Initialized
+DEBUG - 2013-10-07 15:40:14 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 15:40:14 --> Controller Class Initialized
+DEBUG - 2013-10-07 15:40:14 --> Config file loaded: application/config/rest.php
+DEBUG - 2013-10-07 15:40:14 --> Helper loaded: inflector_helper
+DEBUG - 2013-10-07 15:40:14 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 15:40:14 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 15:40:14 --> Model Class Initialized
+DEBUG - 2013-10-07 15:40:14 --> Model Class Initialized
+DEBUG - 2013-10-07 15:40:14 --> Model Class Initialized
+DEBUG - 2013-10-07 15:40:14 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 15:40:14 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 15:40:14 --> Controller Class Initialized
+DEBUG - 2013-10-07 15:40:43 --> Config Class Initialized
+DEBUG - 2013-10-07 15:40:43 --> Hooks Class Initialized
+DEBUG - 2013-10-07 15:40:43 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 15:40:43 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 15:40:43 --> URI Class Initialized
+DEBUG - 2013-10-07 15:40:43 --> Router Class Initialized
+DEBUG - 2013-10-07 15:40:43 --> Output Class Initialized
+DEBUG - 2013-10-07 15:40:43 --> Security Class Initialized
+DEBUG - 2013-10-07 15:40:43 --> Input Class Initialized
+DEBUG - 2013-10-07 15:40:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 15:40:43 --> Language Class Initialized
+DEBUG - 2013-10-07 15:40:43 --> Loader Class Initialized
+DEBUG - 2013-10-07 15:40:43 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 15:40:43 --> Controller Class Initialized
+DEBUG - 2013-10-07 15:40:43 --> Config file loaded: application/config/rest.php
+DEBUG - 2013-10-07 15:40:43 --> Helper loaded: inflector_helper
+DEBUG - 2013-10-07 15:40:43 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 15:40:43 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 15:40:43 --> Model Class Initialized
+DEBUG - 2013-10-07 15:40:43 --> Model Class Initialized
+DEBUG - 2013-10-07 15:40:43 --> Model Class Initialized
+DEBUG - 2013-10-07 15:40:43 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 15:40:43 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 15:40:43 --> Controller Class Initialized
+DEBUG - 2013-10-07 15:40:43 --> XSS Filtering completed
+DEBUG - 2013-10-07 15:40:43 --> XSS Filtering completed
+DEBUG - 2013-10-07 15:42:59 --> Config Class Initialized
+DEBUG - 2013-10-07 15:42:59 --> Hooks Class Initialized
+DEBUG - 2013-10-07 15:42:59 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 15:42:59 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 15:42:59 --> URI Class Initialized
+DEBUG - 2013-10-07 15:42:59 --> Router Class Initialized
+DEBUG - 2013-10-07 15:42:59 --> Output Class Initialized
+DEBUG - 2013-10-07 15:42:59 --> Security Class Initialized
+DEBUG - 2013-10-07 15:42:59 --> Input Class Initialized
+DEBUG - 2013-10-07 15:42:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 15:42:59 --> Language Class Initialized
+DEBUG - 2013-10-07 15:42:59 --> Loader Class Initialized
+DEBUG - 2013-10-07 15:42:59 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 15:42:59 --> Controller Class Initialized
+DEBUG - 2013-10-07 15:42:59 --> Config file loaded: application/config/rest.php
+DEBUG - 2013-10-07 15:42:59 --> Helper loaded: inflector_helper
+DEBUG - 2013-10-07 15:42:59 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 15:42:59 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 15:42:59 --> Model Class Initialized
+DEBUG - 2013-10-07 15:42:59 --> Model Class Initialized
+DEBUG - 2013-10-07 15:42:59 --> Model Class Initialized
+DEBUG - 2013-10-07 15:42:59 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 15:42:59 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 15:42:59 --> Controller Class Initialized
+DEBUG - 2013-10-07 15:42:59 --> XSS Filtering completed
+DEBUG - 2013-10-07 15:42:59 --> XSS Filtering completed

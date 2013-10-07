@@ -30,6 +30,7 @@ class Huodong extends REST_Controller
         $this->load->model('gonggao_model');
         $this->load->database();
         $this->load->helper('url');
+        $this->load->library('qbox');
         $this->show_count = $this->config->item('news_limit_no');
     }
     public function index_get()
@@ -65,11 +66,11 @@ class Huodong extends REST_Controller
                         'renyuan'=> $gonggao['renyuan'],
                         'jijin'=> $content['jijin'],
                         'mingxi'=> $content['mingxi_phone'],
-                        'mingxi_url'=> $content['mingxi_url'],
+                        'mingxi_url'=> $this->qbox->GetDownloadURLNoPic($content['mingxi_fkey']),
                         'mingxi_fkey'=> $content['mingxi_fkey'],
                         'mingxi_fname'=> $content['mingxi_fname'],
                         'gongde'=> $content['gongde_phone'],
-                        'gongde_url'=> $content['gongde_url'],
+                        'gongde_url'=> $this->qbox->GetDownloadURLNoPic($content['gongde_fkey']),
                         'gongde_fkey'=> $content['gongde_fkey'],
                         'gongde_fname' => $content['gongde_fname']);
 
