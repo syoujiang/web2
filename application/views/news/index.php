@@ -74,7 +74,7 @@ function submitForm(){
 <?php echo $formurl; ?>
 <div id="content">
   <div class="container-fluid">
-  	 <legend>资讯管理111</legend>
+  	 <legend>资讯管理</legend>
 <a class="btn btn-primary" href="<?php echo site_url("news/create") ?>">添加</a>
 <input class="btn btn-primary" type="button" value="删除" onclick="submitForm()">
 <input class="btn btn-primary" type="button" value="全选" id="selectAll">

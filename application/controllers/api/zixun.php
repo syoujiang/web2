@@ -115,6 +115,7 @@ class zixun extends REST_Controller
         if($content)
         { 
             $content['content_url']=$this->qbox->GetDownloadURL($content['content_fkey']);
+            $content['collect']=1;
             $this->response($content, 200); // 200 being the HTTP response code
         }
 

@@ -75,9 +75,18 @@ class qbox extends CI_Controller{
 		{
 			$domain="hhshe.qiniudn.com";
 			$baseUrl = Qiniu_RS_MakeBaseUrl($domain, $key);
+                        //生成fopUrl
+                        $imgView = new Qiniu_ImageView;
+                        $imgView->Mode = 2;
+                        $imgView->Width = 146;
+                        $imgView->Height = 110;
+                        $imgViewUrl = $imgView->MakeRequest($baseUrl);
+                        
 			$getPolicy = new Qiniu_RS_GetPolicy();
-			$previewURL = $getPolicy->MakeRequest($baseUrl, null);
+
+			$previewURL = $getPolicy->MakeRequest($imgViewUrl, null);
 		}
+                
 		return $previewURL;
 	}
 	public function DeleteQiniuFile($fkey)
