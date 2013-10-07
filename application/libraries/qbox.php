@@ -77,7 +77,7 @@ class qbox extends CI_Controller{
 			$baseUrl = Qiniu_RS_MakeBaseUrl($domain, $key);
                         //生成fopUrl
                         $imgView = new Qiniu_ImageView;
-                        $imgView->Mode = 2;
+                        $imgView->Mode = 1;
                         $imgView->Width = 146;
                         $imgView->Height = 110;
                         $imgViewUrl = $imgView->MakeRequest($baseUrl);
@@ -98,7 +98,7 @@ class qbox extends CI_Controller{
 			$baseUrl = Qiniu_RS_MakeBaseUrl($domain, $key);
                         //生成fopUrl
                         $imgView = new Qiniu_ImageView;
-                        $imgView->Mode = 2;
+                        $imgView->Mode = 1;
                         $imgView->Width = 572;
                         $imgView->Height = 306;
                         $imgViewUrl = $imgView->MakeRequest($baseUrl);
