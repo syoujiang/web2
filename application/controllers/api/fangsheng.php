@@ -66,7 +66,24 @@ class Fangsheng extends REST_Controller
 
 
         $content=$this->fangsheng_model->getOne_api($id);
-        $content['con_url']=$this->qbox->GetDownloadURL($content['con_fkey']);
+        if($content)
+        {
+            $content['con_url']=$this->qbox->GetDownloadURL($content['con_fkey']);
+            if(!$this->get('token'))
+            {
+                $content['collect_flag']=0;
+            }
+            else
+            {
+                if($this->news_model->check_news_to_collect($this->get('token'),$this->get('id')))
+                {   
+                    $content['collect_flag']=1;
+                }
+                else {
+                   $content['collect_flag']=0;
+               }
+            }
+        }
         $sendmsg = array('bucket' => "hhs",
                     'kaishi' => $content);
 

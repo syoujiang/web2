@@ -39,8 +39,7 @@ class Yigong extends REST_Controller
                                         $this->post('mail'),
                                         $this->post('qq'))
         
-        $message = array('result' => '1',
-            'reason' => "添加成功");
+        $message = array('result' => "1",'reason' => "添加成功");
         $this->response($message, 200); // 200 being the HTTP response code
     }
     

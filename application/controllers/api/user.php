@@ -25,6 +25,7 @@ class User extends REST_Controller {
 		$this->load->model('user_model');
 		$this->load->model('fabao_model');
 		$this->load->model('news_model');
+                $this->load->model('Fangsheng_model');
 	}
 	public function register_post()
 	{
@@ -130,6 +131,7 @@ class User extends REST_Controller {
 	// 我的收藏
 	public function news_get()
 	{
+                $this->load->library('qbox');
 		$token=$this->get("token");
 		if($token=="")
 		{
@@ -147,8 +149,28 @@ class User extends REST_Controller {
 			else
 			{
 				log_message('debug','mail '.$mail);
-				$sendmsg=$this->news_model->get_news_by_mail_api($mail);
-				$this->response($sendmsg, 200); // 200 being the HTTP response code
+                                //get news collect
+				$content=$this->news_model->get_news_by_mail_api($mail);
+                                $sendmsg = array();
+                                $i=0;
+                                foreach ($content as $rows)  
+                                {  
+                                    $rows['news_summary_fkey']=$this->qbox->GetDownloadURL($rows['news_summary_fkey']);
+                                    $sendmsg[$i]=$rows;
+                                    $i++;
+                                }
+                                //get kaishi collect
+                                $content2=$this->news_model->get_fangsheng_by_mail_api($mail);
+                                $sendmsg2 = array();
+                                $i=0;
+                                foreach ($content2 as $rows)  
+                                {  
+                                    $rows['kaishi_summary_fkey']=$this->qbox->GetDownloadURL($rows['kaishi_summary_fkey']);
+                                    $sendmsg2[$i]=$rows;
+                                    $i++;
+                                }
+                                $message = array('news' => $sendmsg, 'kaishi' => $sendmsg2);
+				$this->response($message, 200); // 200 being the HTTP response code
 			}
 		}
 	}
@@ -206,7 +228,7 @@ class User extends REST_Controller {
 			}
 		}
 	}
-        	// 添加收藏
+        	// 添加放生开示收藏
 	public function kaishi_post()
 	{
 		$token=$this->post("token");
@@ -226,14 +248,14 @@ class User extends REST_Controller {
 			else
 			{
 				$id=$this->post("id");
-				$sendmsg=$this->news_model->add_news_to_collect($mail,$id,0);
+				$sendmsg=$this->fangsheng_model->add_fangsheng_to_collect($mail,$id);
 				$message = array('result' => '1',
 					'reason' => "添加成功");
 					$this->response($message, 200); // 200 being the HTTP response code
 			}
 		}
 	}
-	// 删除收藏
+	// 删除放生开示收藏
 	public function kaishi_delete()
 	{
 		$token=$this->delete("token");
@@ -253,7 +275,7 @@ class User extends REST_Controller {
 			else
 			{
 				$id=$this->delete("id");
-				$sendmsg=$this->news_model->delete_news_from_collect($mail,$id,0);
+				$sendmsg=$this->fangsheng_model->delete_fangsheng_from_collect($mail,$id);
 				$message = array('result' => '1',
 					'reason' => "删除成功");
 					$this->response($message, 200); // 200 being the HTTP response code

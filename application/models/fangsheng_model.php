@@ -88,6 +88,9 @@ class Fangsheng_model extends CI_Model {
 		$this->db->select('id,title,con_url,con_fkey,con_fname,summary,kaishi,kaishi_time,content_phone');
 		return $this->db->get_where('hhs_fangsheng', array('id' => $id))->row_array();
 	}
+        
+        
+        //添加放生到收藏中
         public function add_fangsheng_to_collect($mail,$id)
 	{
 		$data = array(

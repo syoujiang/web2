@@ -7,6 +7,7 @@ class news_model extends CI_Model
 	function __construct(){
 		$this->load->database();
 		$this->load->helper('url');
+                $this->load->library('qbox');
 	}
 
 	public function set_news()
@@ -232,23 +233,50 @@ class news_model extends CI_Model
 	}
 	public function get_news_by_mail_api($mail)
 	{
-		$query = $this->db->get_where('hhs_news_collect',array('mail' => $mail));
+		$query = $this->db->get_where('hhs_news_collect',array('mail' => $mail,'type'=>0));
 		$sendmsg = array();
 		$i=0;
 		foreach ($query->result_array() as $row)
 		{
 			log_message('debug','get_news_by_mail_api '.$row['id']);
-			$sendmsg[$i]['news_id']=$row['id'];
+			
 			
 			$this->db->select('zx_title, zx_summary,summary_fkey,summary_fname');
 			$query2=$this->db->get_where('hhs_news', array('id' => $row['id']));
 			if ($query2->num_rows() > 0)
 			{
+                                $sendmsg[$i]['news_id']=$row['id'];
 				$row2 = $query2->row_array(); 
 				$sendmsg[$i]['news_title']=$row2['zx_title'];
 				$sendmsg[$i]['news_summary']=$row2['zx_summary'];
 				$sendmsg[$i]['news_summary_fkey']=$row2['summary_fkey'];
 				$sendmsg[$i]['news_summary_fname']=$row2['summary_fname'];
+//                                $sendmsg[$i]['type']=0;
+			}
+			$i++;
+		}
+		return $sendmsg;
+	}
+        public function get_fangsheng_by_mail_api($mail)
+	{
+		$query = $this->db->get_where('hhs_news_collect',array('mail' => $mail,'type'=>1));
+		$sendmsg = array();
+		$i=0;
+		foreach ($query->result_array() as $row)
+		{
+			log_message('debug','get_news_by_mail_api '.$row['id']);
+			
+			
+			$this->db->select('title, summary_fkey,summary');
+			$query2=$this->db->get_where('hhs_fangsheng', array('id' => $row['id']));
+			if ($query2->num_rows() > 0)
+			{
+                                $sendmsg[$i]['kaishi_id']=$row['id'];
+				$row2 = $query2->row_array(); 
+				$sendmsg[$i]['kaishi_title']=$row2['title'];
+				$sendmsg[$i]['kaishi_summary']=$row2['summary'];
+				$sendmsg[$i]['kaishi_summary_fkey']=$row2['summary_fkey'];
+				$sendmsg[$i]['kaishi_summary_fname']="";
 			}
 			$i++;
 		}
