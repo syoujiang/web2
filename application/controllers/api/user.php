@@ -172,7 +172,7 @@ class User extends REST_Controller {
 			else
 			{
 				$id=$this->post("id");
-				$sendmsg=$this->news_model->add_news_to_collect($mail,$id);
+				$sendmsg=$this->news_model->add_news_to_collect($mail,$id,0);
 				$message = array('result' => '1',
 					'reason' => "添加成功");
 					$this->response($message, 200); // 200 being the HTTP response code
@@ -199,7 +199,61 @@ class User extends REST_Controller {
 			else
 			{
 				$id=$this->delete("id");
-				$sendmsg=$this->news_model->delete_news_from_collect($mail,$id);
+				$sendmsg=$this->news_model->delete_news_from_collect($mail,$id,0);
+				$message = array('result' => '1',
+					'reason' => "删除成功");
+					$this->response($message, 200); // 200 being the HTTP response code
+			}
+		}
+	}
+        	// 添加收藏
+	public function kaishi_post()
+	{
+		$token=$this->post("token");
+		if($token=="")
+		{
+			$this->response(array('status' => false, 'error' => 'Not authorized'), 401);
+		}
+		else
+		{
+			log_message('debug','token '.$token);
+			log_message('debug','start check token is valid');
+			$mail=$this->user_model->getMail($token);
+			if($mail == null)
+			{
+				$this->response(array('status' => false, 'error' => 'Not authorized'), 401);
+			}
+			else
+			{
+				$id=$this->post("id");
+				$sendmsg=$this->news_model->add_news_to_collect($mail,$id,0);
+				$message = array('result' => '1',
+					'reason' => "添加成功");
+					$this->response($message, 200); // 200 being the HTTP response code
+			}
+		}
+	}
+	// 删除收藏
+	public function kaishi_delete()
+	{
+		$token=$this->delete("token");
+		if($token=="")
+		{
+			$this->response(array('status' => false, 'error' => 'Not authorized'), 401);
+		}
+		else
+		{
+			log_message('debug','token '.$token);
+			log_message('debug','start check token is valid');
+			$mail=$this->user_model->getMail($token);
+			if($mail == null)
+			{
+				$this->response(array('status' => false, 'error' => 'Not authorized'), 401);
+			}
+			else
+			{
+				$id=$this->delete("id");
+				$sendmsg=$this->news_model->delete_news_from_collect($mail,$id,0);
 				$message = array('result' => '1',
 					'reason' => "删除成功");
 					$this->response($message, 200); // 200 being the HTTP response code

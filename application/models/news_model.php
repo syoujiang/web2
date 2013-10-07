@@ -258,7 +258,8 @@ class news_model extends CI_Model
 	{
 		$data = array(
 			'mail' => $mail,
-			'id' => $id
+			'id' => $id,
+                        'type' => 0
 			);
 
 		$query = $this->db->get_where('hhs_news_collect',$data);
@@ -271,7 +272,7 @@ class news_model extends CI_Model
 	}
 	public function delete_news_from_collect($mail,$id)
 	{
-		$this->db->delete('hhs_news_collect',array('mail' => $mail,'id' => $id));
+		$this->db->delete('hhs_news_collect',array('mail' => $mail,'id' => $id,'type'=> 0));
 	}
         public function check_news_to_collect($token,$id)
 	{
@@ -288,15 +289,17 @@ class news_model extends CI_Model
             {
 		$data = array(
 			'mail' => $mail,
-			'id' => $id
+			'id' => $id,
+                        'type' => 0
 			);
 
 		$query = $this->db->get_where('hhs_news_collect',$data);
 		if($query->num_rows()==0)
 		{
-			return false;
+                    return false;
 		}
-                else {
+                else 
+                {
                     return true;
                 }
 

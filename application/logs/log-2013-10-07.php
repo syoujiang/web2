@@ -9357,3 +9357,1000 @@ DEBUG - 2013-10-07 11:34:45 --> XSS Filtering completed
 DEBUG - 2013-10-07 11:34:45 --> XSS Filtering completed
 DEBUG - 2013-10-07 11:34:45 --> XSS Filtering completed
 DEBUG - 2013-10-07 11:34:45 --> XSS Filtering completed
+DEBUG - 2013-10-07 13:07:15 --> Config Class Initialized
+DEBUG - 2013-10-07 13:07:15 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:07:15 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:07:15 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:07:15 --> URI Class Initialized
+DEBUG - 2013-10-07 13:07:15 --> Router Class Initialized
+DEBUG - 2013-10-07 13:07:15 --> Output Class Initialized
+DEBUG - 2013-10-07 13:07:15 --> Security Class Initialized
+DEBUG - 2013-10-07 13:07:15 --> Input Class Initialized
+DEBUG - 2013-10-07 13:07:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:07:15 --> Language Class Initialized
+DEBUG - 2013-10-07 13:07:15 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:07:15 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:07:15 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:07:15 --> Config file loaded: application/config/rest.php
+DEBUG - 2013-10-07 13:07:15 --> Helper loaded: inflector_helper
+DEBUG - 2013-10-07 13:07:15 --> Model Class Initialized
+DEBUG - 2013-10-07 13:07:15 --> Helper loaded: date_helper
+DEBUG - 2013-10-07 13:07:15 --> Model Class Initialized
+DEBUG - 2013-10-07 13:07:15 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:11:46 --> Config Class Initialized
+DEBUG - 2013-10-07 13:11:46 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:11:46 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:11:46 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:11:46 --> URI Class Initialized
+DEBUG - 2013-10-07 13:11:46 --> Router Class Initialized
+DEBUG - 2013-10-07 13:11:46 --> Output Class Initialized
+DEBUG - 2013-10-07 13:11:46 --> Security Class Initialized
+DEBUG - 2013-10-07 13:11:46 --> Input Class Initialized
+DEBUG - 2013-10-07 13:11:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:11:46 --> Language Class Initialized
+DEBUG - 2013-10-07 13:11:46 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:11:46 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:11:46 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:11:46 --> Config file loaded: application/config/rest.php
+DEBUG - 2013-10-07 13:11:46 --> Helper loaded: inflector_helper
+DEBUG - 2013-10-07 13:11:46 --> Model Class Initialized
+DEBUG - 2013-10-07 13:11:46 --> Helper loaded: date_helper
+DEBUG - 2013-10-07 13:11:46 --> Model Class Initialized
+DEBUG - 2013-10-07 13:11:46 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:15:31 --> Config Class Initialized
+DEBUG - 2013-10-07 13:15:31 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:15:31 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:15:31 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:15:31 --> URI Class Initialized
+DEBUG - 2013-10-07 13:15:31 --> Router Class Initialized
+DEBUG - 2013-10-07 13:15:31 --> Output Class Initialized
+DEBUG - 2013-10-07 13:15:31 --> Security Class Initialized
+DEBUG - 2013-10-07 13:15:31 --> Input Class Initialized
+DEBUG - 2013-10-07 13:15:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:15:31 --> Language Class Initialized
+DEBUG - 2013-10-07 13:15:31 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:15:31 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:15:31 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:15:31 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 13:15:31 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:15:31 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 13:15:31 --> Model Class Initialized
+DEBUG - 2013-10-07 13:15:31 --> Model Class Initialized
+DEBUG - 2013-10-07 13:15:31 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 13:15:31 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 13:15:31 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 13:15:31 --> File loaded: application/views/gonggao/index.php
+DEBUG - 2013-10-07 13:15:31 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 13:15:31 --> Final output sent to browser
+DEBUG - 2013-10-07 13:15:31 --> Total execution time: 0.0270
+DEBUG - 2013-10-07 13:15:34 --> Config Class Initialized
+DEBUG - 2013-10-07 13:15:34 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:15:34 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:15:34 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:15:34 --> URI Class Initialized
+DEBUG - 2013-10-07 13:15:34 --> Router Class Initialized
+DEBUG - 2013-10-07 13:15:34 --> Output Class Initialized
+DEBUG - 2013-10-07 13:15:34 --> Security Class Initialized
+DEBUG - 2013-10-07 13:15:34 --> Input Class Initialized
+DEBUG - 2013-10-07 13:15:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:15:34 --> Language Class Initialized
+DEBUG - 2013-10-07 13:15:34 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:15:34 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:15:34 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:15:34 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 13:15:34 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:15:34 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 13:15:34 --> Model Class Initialized
+DEBUG - 2013-10-07 13:15:34 --> Model Class Initialized
+DEBUG - 2013-10-07 13:15:34 --> Model Class Initialized
+DEBUG - 2013-10-07 13:15:34 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 13:15:34 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 13:15:34 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 13:15:34 --> File loaded: application/views/huodong/index.php
+DEBUG - 2013-10-07 13:15:34 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 13:15:34 --> Final output sent to browser
+DEBUG - 2013-10-07 13:15:34 --> Total execution time: 0.0282
+DEBUG - 2013-10-07 13:15:41 --> Config Class Initialized
+DEBUG - 2013-10-07 13:15:41 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:15:41 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:15:41 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:15:41 --> URI Class Initialized
+DEBUG - 2013-10-07 13:15:41 --> Router Class Initialized
+DEBUG - 2013-10-07 13:15:41 --> Output Class Initialized
+DEBUG - 2013-10-07 13:15:41 --> Security Class Initialized
+DEBUG - 2013-10-07 13:15:41 --> Input Class Initialized
+DEBUG - 2013-10-07 13:15:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:15:41 --> Language Class Initialized
+DEBUG - 2013-10-07 13:15:41 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:15:41 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:15:41 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:15:41 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 13:15:41 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:15:41 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 13:15:41 --> Model Class Initialized
+DEBUG - 2013-10-07 13:15:41 --> Model Class Initialized
+DEBUG - 2013-10-07 13:15:41 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 13:15:41 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 13:15:41 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 13:15:41 --> File loaded: application/views/gonggao/index.php
+DEBUG - 2013-10-07 13:15:41 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 13:15:41 --> Final output sent to browser
+DEBUG - 2013-10-07 13:15:41 --> Total execution time: 0.0267
+DEBUG - 2013-10-07 13:16:44 --> Config Class Initialized
+DEBUG - 2013-10-07 13:16:44 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:16:44 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:16:44 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:16:44 --> URI Class Initialized
+DEBUG - 2013-10-07 13:16:44 --> Router Class Initialized
+DEBUG - 2013-10-07 13:16:44 --> Output Class Initialized
+DEBUG - 2013-10-07 13:16:44 --> Security Class Initialized
+DEBUG - 2013-10-07 13:16:44 --> Input Class Initialized
+DEBUG - 2013-10-07 13:16:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:16:44 --> Language Class Initialized
+DEBUG - 2013-10-07 13:16:44 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:16:44 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:16:44 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:16:44 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 13:16:44 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:16:44 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 13:16:44 --> Model Class Initialized
+DEBUG - 2013-10-07 13:16:44 --> Model Class Initialized
+DEBUG - 2013-10-07 13:16:44 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 13:16:44 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 13:16:44 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 13:16:44 --> File loaded: application/views/gonggao/index.php
+DEBUG - 2013-10-07 13:16:44 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 13:16:44 --> Final output sent to browser
+DEBUG - 2013-10-07 13:16:44 --> Total execution time: 0.0277
+DEBUG - 2013-10-07 13:16:46 --> Config Class Initialized
+DEBUG - 2013-10-07 13:16:46 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:16:46 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:16:46 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:16:46 --> URI Class Initialized
+DEBUG - 2013-10-07 13:16:46 --> Router Class Initialized
+DEBUG - 2013-10-07 13:16:46 --> Output Class Initialized
+DEBUG - 2013-10-07 13:16:46 --> Security Class Initialized
+DEBUG - 2013-10-07 13:16:46 --> Input Class Initialized
+DEBUG - 2013-10-07 13:16:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:16:46 --> Language Class Initialized
+DEBUG - 2013-10-07 13:16:46 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:16:46 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:16:46 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:16:46 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 13:16:46 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:16:46 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 13:16:46 --> Model Class Initialized
+DEBUG - 2013-10-07 13:16:46 --> Model Class Initialized
+DEBUG - 2013-10-07 13:16:46 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 13:16:46 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 13:16:46 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 13:16:46 --> File loaded: application/views/fangsheng/index.php
+DEBUG - 2013-10-07 13:16:46 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 13:16:46 --> Final output sent to browser
+DEBUG - 2013-10-07 13:16:46 --> Total execution time: 0.0258
+DEBUG - 2013-10-07 13:17:29 --> Config Class Initialized
+DEBUG - 2013-10-07 13:17:29 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:17:29 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:17:29 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:17:29 --> URI Class Initialized
+DEBUG - 2013-10-07 13:17:29 --> Router Class Initialized
+DEBUG - 2013-10-07 13:17:29 --> Output Class Initialized
+DEBUG - 2013-10-07 13:17:29 --> Security Class Initialized
+DEBUG - 2013-10-07 13:17:29 --> Input Class Initialized
+DEBUG - 2013-10-07 13:17:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:17:29 --> Language Class Initialized
+DEBUG - 2013-10-07 13:17:29 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:17:29 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:17:29 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:17:29 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 13:17:29 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:17:29 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 13:17:29 --> Model Class Initialized
+DEBUG - 2013-10-07 13:17:29 --> Model Class Initialized
+DEBUG - 2013-10-07 13:17:29 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 13:17:29 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 13:17:29 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 13:17:29 --> File loaded: application/views/gonggao/index.php
+DEBUG - 2013-10-07 13:17:29 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 13:17:29 --> Final output sent to browser
+DEBUG - 2013-10-07 13:17:29 --> Total execution time: 0.0283
+DEBUG - 2013-10-07 13:17:31 --> Config Class Initialized
+DEBUG - 2013-10-07 13:17:31 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:17:31 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:17:31 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:17:31 --> URI Class Initialized
+DEBUG - 2013-10-07 13:17:31 --> Router Class Initialized
+DEBUG - 2013-10-07 13:17:31 --> Output Class Initialized
+DEBUG - 2013-10-07 13:17:31 --> Security Class Initialized
+DEBUG - 2013-10-07 13:17:31 --> Input Class Initialized
+DEBUG - 2013-10-07 13:17:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:17:31 --> Language Class Initialized
+DEBUG - 2013-10-07 13:17:31 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:17:31 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:17:31 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:17:31 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 13:17:31 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:17:31 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 13:17:31 --> Model Class Initialized
+DEBUG - 2013-10-07 13:17:31 --> Model Class Initialized
+DEBUG - 2013-10-07 13:17:31 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 13:17:31 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 13:17:31 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 13:17:31 --> File loaded: application/views/fangsheng/index.php
+DEBUG - 2013-10-07 13:17:31 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 13:17:31 --> Final output sent to browser
+DEBUG - 2013-10-07 13:17:31 --> Total execution time: 0.0298
+DEBUG - 2013-10-07 13:17:35 --> Config Class Initialized
+DEBUG - 2013-10-07 13:17:35 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:17:35 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:17:35 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:17:35 --> URI Class Initialized
+DEBUG - 2013-10-07 13:17:35 --> Router Class Initialized
+DEBUG - 2013-10-07 13:17:35 --> Output Class Initialized
+DEBUG - 2013-10-07 13:17:35 --> Security Class Initialized
+DEBUG - 2013-10-07 13:17:35 --> Input Class Initialized
+DEBUG - 2013-10-07 13:17:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:17:35 --> Language Class Initialized
+DEBUG - 2013-10-07 13:17:35 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:17:35 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:17:35 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:17:35 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 13:17:35 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:17:35 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 13:17:35 --> Model Class Initialized
+DEBUG - 2013-10-07 13:17:35 --> Model Class Initialized
+DEBUG - 2013-10-07 13:17:35 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 13:17:35 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 13:17:35 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 13:17:35 --> File loaded: application/views/wuzhong/index.php
+DEBUG - 2013-10-07 13:17:35 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 13:17:35 --> Final output sent to browser
+DEBUG - 2013-10-07 13:17:35 --> Total execution time: 0.0279
+DEBUG - 2013-10-07 13:17:36 --> Config Class Initialized
+DEBUG - 2013-10-07 13:17:36 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:17:36 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:17:36 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:17:36 --> URI Class Initialized
+DEBUG - 2013-10-07 13:17:36 --> Router Class Initialized
+DEBUG - 2013-10-07 13:17:36 --> Output Class Initialized
+DEBUG - 2013-10-07 13:17:36 --> Security Class Initialized
+DEBUG - 2013-10-07 13:17:36 --> Input Class Initialized
+DEBUG - 2013-10-07 13:17:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:17:36 --> Language Class Initialized
+DEBUG - 2013-10-07 13:17:36 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:17:36 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:17:36 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:17:36 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 13:17:36 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:17:36 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 13:17:36 --> Model Class Initialized
+DEBUG - 2013-10-07 13:17:36 --> Model Class Initialized
+DEBUG - 2013-10-07 13:17:36 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 13:17:36 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 13:17:36 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 13:17:36 --> File loaded: application/views/fangsheng/index.php
+DEBUG - 2013-10-07 13:17:36 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 13:17:36 --> Final output sent to browser
+DEBUG - 2013-10-07 13:17:36 --> Total execution time: 0.0277
+DEBUG - 2013-10-07 13:17:38 --> Config Class Initialized
+DEBUG - 2013-10-07 13:17:38 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:17:38 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:17:38 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:17:38 --> URI Class Initialized
+DEBUG - 2013-10-07 13:17:38 --> Router Class Initialized
+DEBUG - 2013-10-07 13:17:38 --> Output Class Initialized
+DEBUG - 2013-10-07 13:17:38 --> Security Class Initialized
+DEBUG - 2013-10-07 13:17:38 --> Input Class Initialized
+DEBUG - 2013-10-07 13:17:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:17:38 --> Language Class Initialized
+DEBUG - 2013-10-07 13:17:38 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:17:38 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:17:38 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:17:38 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 13:17:38 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:17:38 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 13:17:38 --> Model Class Initialized
+DEBUG - 2013-10-07 13:17:38 --> Model Class Initialized
+DEBUG - 2013-10-07 13:17:38 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:17:38 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:17:38 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 13:17:38 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 13:17:38 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 13:17:38 --> File loaded: application/views/fangsheng/create.php
+DEBUG - 2013-10-07 13:17:38 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 13:17:38 --> Final output sent to browser
+DEBUG - 2013-10-07 13:17:38 --> Total execution time: 0.0270
+DEBUG - 2013-10-07 13:17:39 --> Config Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:17:39 --> URI Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Router Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Output Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Security Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Input Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:17:39 --> Language Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 13:17:39 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:17:39 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Model Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Model Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 13:17:39 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 13:17:39 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 13:17:39 --> File loaded: application/views/fangsheng/index.php
+DEBUG - 2013-10-07 13:17:39 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 13:17:39 --> Final output sent to browser
+DEBUG - 2013-10-07 13:17:39 --> Total execution time: 0.0270
+DEBUG - 2013-10-07 13:17:39 --> Config Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:17:39 --> URI Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Router Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Output Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Security Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Input Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:17:39 --> Language Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 13:17:39 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:17:39 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Model Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> Model Class Initialized
+DEBUG - 2013-10-07 13:17:39 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 13:17:39 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 13:17:39 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 13:17:39 --> File loaded: application/views/fangsheng/index.php
+DEBUG - 2013-10-07 13:17:39 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 13:17:39 --> Final output sent to browser
+DEBUG - 2013-10-07 13:17:39 --> Total execution time: 0.0262
+DEBUG - 2013-10-07 13:17:48 --> Config Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:17:48 --> URI Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Router Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Output Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Security Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Input Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:17:48 --> Language Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 13:17:48 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:17:48 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Model Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Model Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 13:17:48 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 13:17:48 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 13:17:48 --> File loaded: application/views/fangsheng/update.php
+DEBUG - 2013-10-07 13:17:48 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 13:17:48 --> Final output sent to browser
+DEBUG - 2013-10-07 13:17:48 --> Total execution time: 0.0303
+DEBUG - 2013-10-07 13:17:48 --> Config Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:17:48 --> URI Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Router Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Output Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Security Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Input Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:17:48 --> Language Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:17:48 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 13:17:48 --> Session Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Helper loaded: string_helper
+DEBUG - 2013-10-07 13:17:48 --> A session cookie was not found.
+DEBUG - 2013-10-07 13:17:48 --> Session routines successfully run
+DEBUG - 2013-10-07 13:17:48 --> Encrypt Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Model Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Model Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Controller Class Initialized
+ERROR - 2013-10-07 13:17:48 --> callbackshow
+ERROR - 2013-10-07 13:17:48 --> message show ()()
+DEBUG - 2013-10-07 13:17:48 --> Config Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:17:48 --> URI Class Initialized
+DEBUG - 2013-10-07 13:17:48 --> Router Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Output Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Security Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Input Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:17:49 --> Language Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 13:17:49 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:17:49 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Model Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Model Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 13:17:49 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 13:17:49 --> File loaded: application/views/templates/left.php
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: id /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 44
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: summary_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 88
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: con_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 89
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: summary_fname /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 90
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: con_fname /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 91
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: id /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 96
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: id /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 316
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: summary_url /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 317
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: summary_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 318
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: summary_fname /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 319
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: con_url /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 320
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: con_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 321
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: con_fname /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 322
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: content_phone /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 323
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: title /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 330
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: kaishi /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 336
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: kaishi_time /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 340
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: summary /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 344
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: content /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 358
+DEBUG - 2013-10-07 13:17:49 --> File loaded: application/views/fangsheng/update.php
+DEBUG - 2013-10-07 13:17:49 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 13:17:49 --> Final output sent to browser
+DEBUG - 2013-10-07 13:17:49 --> Total execution time: 0.0345
+DEBUG - 2013-10-07 13:17:49 --> Config Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:17:49 --> URI Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Router Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Output Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Security Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Input Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:17:49 --> Language Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 13:17:49 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:17:49 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Model Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Model Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:17:49 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 13:17:49 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 13:17:49 --> File loaded: application/views/templates/left.php
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: id /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 44
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: summary_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 88
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: con_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 89
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: summary_fname /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 90
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: con_fname /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 91
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: id /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 96
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: id /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 316
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: summary_url /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 317
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: summary_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 318
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: summary_fname /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 319
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: con_url /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 320
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: con_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 321
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: con_fname /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 322
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: content_phone /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 323
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: title /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 330
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: kaishi /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 336
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: kaishi_time /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 340
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: summary /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 344
+ERROR - 2013-10-07 13:17:49 --> Severity: Notice  --> Undefined variable: content /Users/syoujiang/Documents/hhs_web/web2/application/views/fangsheng/update.php 358
+DEBUG - 2013-10-07 13:17:49 --> File loaded: application/views/fangsheng/update.php
+DEBUG - 2013-10-07 13:17:49 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 13:17:49 --> Final output sent to browser
+DEBUG - 2013-10-07 13:17:49 --> Total execution time: 0.0316
+DEBUG - 2013-10-07 13:45:25 --> Config Class Initialized
+DEBUG - 2013-10-07 13:45:25 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:45:25 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:45:25 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:45:25 --> URI Class Initialized
+DEBUG - 2013-10-07 13:45:25 --> Router Class Initialized
+DEBUG - 2013-10-07 13:45:25 --> Output Class Initialized
+DEBUG - 2013-10-07 13:45:25 --> Security Class Initialized
+DEBUG - 2013-10-07 13:45:25 --> Input Class Initialized
+DEBUG - 2013-10-07 13:45:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:45:25 --> Language Class Initialized
+DEBUG - 2013-10-07 13:45:25 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:45:25 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:45:25 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:45:25 --> Config file loaded: application/config/rest.php
+DEBUG - 2013-10-07 13:45:25 --> Helper loaded: inflector_helper
+DEBUG - 2013-10-07 13:45:25 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 13:45:25 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 13:45:25 --> Model Class Initialized
+DEBUG - 2013-10-07 13:45:25 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:45:25 --> Helper loaded: date_helper
+DEBUG - 2013-10-07 13:45:25 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:45:25 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:45:25 --> XSS Filtering completed
+DEBUG - 2013-10-07 13:45:25 --> XSS Filtering completed
+DEBUG - 2013-10-07 13:45:25 --> XSS Filtering completed
+DEBUG - 2013-10-07 13:45:25 --> XSS Filtering completed
+DEBUG - 2013-10-07 13:45:25 --> XSS Filtering completed
+DEBUG - 2013-10-07 13:52:44 --> Config Class Initialized
+DEBUG - 2013-10-07 13:52:44 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:52:44 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:52:44 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:52:44 --> URI Class Initialized
+DEBUG - 2013-10-07 13:52:44 --> Router Class Initialized
+DEBUG - 2013-10-07 13:52:44 --> Output Class Initialized
+DEBUG - 2013-10-07 13:52:44 --> Security Class Initialized
+DEBUG - 2013-10-07 13:52:44 --> Input Class Initialized
+DEBUG - 2013-10-07 13:52:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:52:44 --> Language Class Initialized
+DEBUG - 2013-10-07 13:52:44 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:52:44 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:52:44 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:52:44 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 13:52:44 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:52:44 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 13:52:44 --> Model Class Initialized
+DEBUG - 2013-10-07 13:52:44 --> Model Class Initialized
+DEBUG - 2013-10-07 13:52:44 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 13:52:44 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 13:52:44 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 13:52:44 --> File loaded: application/views/fangsheng/index.php
+DEBUG - 2013-10-07 13:52:44 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 13:52:44 --> Final output sent to browser
+DEBUG - 2013-10-07 13:52:44 --> Total execution time: 0.0287
+DEBUG - 2013-10-07 13:52:46 --> Config Class Initialized
+DEBUG - 2013-10-07 13:52:46 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:52:46 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:52:46 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:52:46 --> URI Class Initialized
+DEBUG - 2013-10-07 13:52:46 --> Router Class Initialized
+DEBUG - 2013-10-07 13:52:46 --> Output Class Initialized
+DEBUG - 2013-10-07 13:52:46 --> Security Class Initialized
+DEBUG - 2013-10-07 13:52:46 --> Input Class Initialized
+DEBUG - 2013-10-07 13:52:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:52:46 --> Language Class Initialized
+DEBUG - 2013-10-07 13:52:46 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:52:46 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:52:46 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:52:46 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 13:52:46 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:52:46 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 13:52:46 --> Model Class Initialized
+DEBUG - 2013-10-07 13:52:46 --> Model Class Initialized
+DEBUG - 2013-10-07 13:52:46 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 13:52:46 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 13:52:46 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 13:52:46 --> File loaded: application/views/fangsheng/index.php
+DEBUG - 2013-10-07 13:52:46 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 13:52:46 --> Final output sent to browser
+DEBUG - 2013-10-07 13:52:46 --> Total execution time: 0.0279
+DEBUG - 2013-10-07 13:52:47 --> Config Class Initialized
+DEBUG - 2013-10-07 13:52:47 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:52:47 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:52:47 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:52:47 --> URI Class Initialized
+DEBUG - 2013-10-07 13:52:47 --> Router Class Initialized
+DEBUG - 2013-10-07 13:52:47 --> Output Class Initialized
+DEBUG - 2013-10-07 13:52:47 --> Security Class Initialized
+DEBUG - 2013-10-07 13:52:47 --> Input Class Initialized
+DEBUG - 2013-10-07 13:52:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:52:47 --> Language Class Initialized
+DEBUG - 2013-10-07 13:52:47 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:52:47 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:52:47 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:52:47 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 13:52:47 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:52:47 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 13:52:47 --> Model Class Initialized
+DEBUG - 2013-10-07 13:52:47 --> Model Class Initialized
+DEBUG - 2013-10-07 13:52:47 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:52:47 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:52:47 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 13:52:47 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 13:52:47 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 13:52:47 --> File loaded: application/views/fangsheng/create.php
+DEBUG - 2013-10-07 13:52:47 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 13:52:47 --> Final output sent to browser
+DEBUG - 2013-10-07 13:52:47 --> Total execution time: 0.0291
+DEBUG - 2013-10-07 13:52:48 --> Config Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:52:48 --> URI Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Router Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Output Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Security Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Input Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:52:48 --> Language Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 13:52:48 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:52:48 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Model Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Model Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 13:52:48 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 13:52:48 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 13:52:48 --> File loaded: application/views/fangsheng/index.php
+DEBUG - 2013-10-07 13:52:48 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 13:52:48 --> Final output sent to browser
+DEBUG - 2013-10-07 13:52:48 --> Total execution time: 0.0281
+DEBUG - 2013-10-07 13:52:48 --> Config Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Hooks Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 13:52:48 --> URI Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Router Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Output Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Security Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Input Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 13:52:48 --> Language Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Loader Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Controller Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 13:52:48 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 13:52:48 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Model Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> Model Class Initialized
+DEBUG - 2013-10-07 13:52:48 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 13:52:48 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 13:52:48 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 13:52:48 --> File loaded: application/views/fangsheng/index.php
+DEBUG - 2013-10-07 13:52:48 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 13:52:48 --> Final output sent to browser
+DEBUG - 2013-10-07 13:52:48 --> Total execution time: 0.0307
+DEBUG - 2013-10-07 14:09:57 --> Config Class Initialized
+DEBUG - 2013-10-07 14:09:57 --> Hooks Class Initialized
+DEBUG - 2013-10-07 14:09:57 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 14:09:57 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 14:09:57 --> URI Class Initialized
+DEBUG - 2013-10-07 14:09:57 --> Router Class Initialized
+DEBUG - 2013-10-07 14:09:57 --> Output Class Initialized
+DEBUG - 2013-10-07 14:09:57 --> Security Class Initialized
+DEBUG - 2013-10-07 14:09:57 --> Input Class Initialized
+DEBUG - 2013-10-07 14:09:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 14:09:57 --> Language Class Initialized
+DEBUG - 2013-10-07 14:09:57 --> Loader Class Initialized
+DEBUG - 2013-10-07 14:09:57 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 14:09:57 --> Controller Class Initialized
+DEBUG - 2013-10-07 14:09:57 --> Config file loaded: application/config/rest.php
+DEBUG - 2013-10-07 14:09:57 --> Helper loaded: inflector_helper
+DEBUG - 2013-10-07 14:09:57 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 14:09:57 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 14:09:57 --> Model Class Initialized
+DEBUG - 2013-10-07 14:09:57 --> Model Class Initialized
+DEBUG - 2013-10-07 14:09:57 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 14:09:57 --> XSS Filtering completed
+DEBUG - 2013-10-07 14:09:57 --> XSS Filtering completed
+ERROR - 2013-10-07 14:09:57 --> Severity: Notice  --> Undefined property: Wuzhong::$qbox /Users/syoujiang/Documents/hhs_web/web2/application/controllers/api/wuzhong.php 64
+DEBUG - 2013-10-07 14:10:21 --> Config Class Initialized
+DEBUG - 2013-10-07 14:10:21 --> Hooks Class Initialized
+DEBUG - 2013-10-07 14:10:21 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 14:10:21 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 14:10:21 --> URI Class Initialized
+DEBUG - 2013-10-07 14:10:21 --> Router Class Initialized
+DEBUG - 2013-10-07 14:10:21 --> Output Class Initialized
+DEBUG - 2013-10-07 14:10:21 --> Security Class Initialized
+DEBUG - 2013-10-07 14:10:21 --> Input Class Initialized
+DEBUG - 2013-10-07 14:10:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 14:10:21 --> Language Class Initialized
+DEBUG - 2013-10-07 14:10:21 --> Loader Class Initialized
+DEBUG - 2013-10-07 14:10:21 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 14:10:21 --> Controller Class Initialized
+DEBUG - 2013-10-07 14:10:21 --> Config file loaded: application/config/rest.php
+DEBUG - 2013-10-07 14:10:21 --> Helper loaded: inflector_helper
+DEBUG - 2013-10-07 14:10:21 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 14:10:21 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 14:10:21 --> Model Class Initialized
+DEBUG - 2013-10-07 14:10:21 --> Model Class Initialized
+DEBUG - 2013-10-07 14:10:21 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 14:10:21 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 14:10:21 --> Controller Class Initialized
+DEBUG - 2013-10-07 14:10:21 --> XSS Filtering completed
+DEBUG - 2013-10-07 14:10:21 --> XSS Filtering completed
+ERROR - 2013-10-07 14:10:21 --> Severity: Notice  --> Undefined index: con_fkey /Users/syoujiang/Documents/hhs_web/web2/application/controllers/api/wuzhong.php 65
+ERROR - 2013-10-07 14:10:21 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/syoujiang/Documents/hhs_web/web2/system/core/Exceptions.php:185) /Users/syoujiang/Documents/hhs_web/web2/application/libraries/REST_Controller.php 407
+ERROR - 2013-10-07 14:10:21 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/syoujiang/Documents/hhs_web/web2/system/core/Exceptions.php:185) /Users/syoujiang/Documents/hhs_web/web2/application/libraries/REST_Controller.php 418
+ERROR - 2013-10-07 14:10:21 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/syoujiang/Documents/hhs_web/web2/system/core/Exceptions.php:185) /Users/syoujiang/Documents/hhs_web/web2/application/libraries/REST_Controller.php 419
+ERROR - 2013-10-07 14:10:21 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/syoujiang/Documents/hhs_web/web2/system/core/Exceptions.php:185) /Users/syoujiang/Documents/hhs_web/web2/application/libraries/REST_Controller.php 427
+DEBUG - 2013-10-07 14:11:14 --> Config Class Initialized
+DEBUG - 2013-10-07 14:11:14 --> Hooks Class Initialized
+DEBUG - 2013-10-07 14:11:14 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 14:11:14 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 14:11:14 --> URI Class Initialized
+DEBUG - 2013-10-07 14:11:14 --> Router Class Initialized
+DEBUG - 2013-10-07 14:11:14 --> Output Class Initialized
+DEBUG - 2013-10-07 14:11:14 --> Security Class Initialized
+DEBUG - 2013-10-07 14:11:14 --> Input Class Initialized
+DEBUG - 2013-10-07 14:11:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 14:11:14 --> Language Class Initialized
+DEBUG - 2013-10-07 14:11:14 --> Loader Class Initialized
+DEBUG - 2013-10-07 14:11:14 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 14:11:14 --> Controller Class Initialized
+DEBUG - 2013-10-07 14:11:14 --> Config file loaded: application/config/rest.php
+DEBUG - 2013-10-07 14:11:14 --> Helper loaded: inflector_helper
+DEBUG - 2013-10-07 14:11:14 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 14:11:14 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 14:11:14 --> Model Class Initialized
+DEBUG - 2013-10-07 14:11:14 --> Model Class Initialized
+DEBUG - 2013-10-07 14:11:14 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 14:11:14 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 14:11:14 --> Controller Class Initialized
+DEBUG - 2013-10-07 14:11:14 --> XSS Filtering completed
+DEBUG - 2013-10-07 14:11:14 --> XSS Filtering completed
+DEBUG - 2013-10-07 14:11:33 --> Config Class Initialized
+DEBUG - 2013-10-07 14:11:33 --> Hooks Class Initialized
+DEBUG - 2013-10-07 14:11:34 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 14:11:34 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 14:11:34 --> URI Class Initialized
+DEBUG - 2013-10-07 14:11:34 --> Router Class Initialized
+DEBUG - 2013-10-07 14:11:34 --> Output Class Initialized
+DEBUG - 2013-10-07 14:11:34 --> Security Class Initialized
+DEBUG - 2013-10-07 14:11:34 --> Input Class Initialized
+DEBUG - 2013-10-07 14:11:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 14:11:34 --> Language Class Initialized
+DEBUG - 2013-10-07 14:11:34 --> Loader Class Initialized
+DEBUG - 2013-10-07 14:11:34 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 14:11:34 --> Controller Class Initialized
+DEBUG - 2013-10-07 14:11:34 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 14:11:34 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 14:11:34 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 14:11:34 --> Model Class Initialized
+DEBUG - 2013-10-07 14:11:34 --> Model Class Initialized
+DEBUG - 2013-10-07 14:11:34 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 14:11:34 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 14:11:34 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 14:11:34 --> File loaded: application/views/fangsheng/index.php
+DEBUG - 2013-10-07 14:11:34 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 14:11:34 --> Final output sent to browser
+DEBUG - 2013-10-07 14:11:34 --> Total execution time: 0.0282
+DEBUG - 2013-10-07 14:11:35 --> Config Class Initialized
+DEBUG - 2013-10-07 14:11:35 --> Hooks Class Initialized
+DEBUG - 2013-10-07 14:11:35 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 14:11:35 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 14:11:35 --> URI Class Initialized
+DEBUG - 2013-10-07 14:11:35 --> Router Class Initialized
+DEBUG - 2013-10-07 14:11:35 --> Output Class Initialized
+DEBUG - 2013-10-07 14:11:35 --> Security Class Initialized
+DEBUG - 2013-10-07 14:11:35 --> Input Class Initialized
+DEBUG - 2013-10-07 14:11:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 14:11:35 --> Language Class Initialized
+DEBUG - 2013-10-07 14:11:35 --> Loader Class Initialized
+DEBUG - 2013-10-07 14:11:35 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 14:11:35 --> Controller Class Initialized
+DEBUG - 2013-10-07 14:11:35 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 14:11:35 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 14:11:35 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 14:11:35 --> Model Class Initialized
+DEBUG - 2013-10-07 14:11:35 --> Model Class Initialized
+DEBUG - 2013-10-07 14:11:35 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 14:11:35 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 14:11:35 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 14:11:35 --> File loaded: application/views/wuzhong/index.php
+DEBUG - 2013-10-07 14:11:35 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 14:11:35 --> Final output sent to browser
+DEBUG - 2013-10-07 14:11:35 --> Total execution time: 0.0295
+DEBUG - 2013-10-07 14:11:37 --> Config Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Hooks Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 14:11:37 --> URI Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Router Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Output Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Security Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Input Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 14:11:37 --> Language Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Loader Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Controller Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 14:11:37 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 14:11:37 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Model Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Model Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Controller Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 14:11:37 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 14:11:37 --> File loaded: application/views/templates/left.php
+DEBUG - 2013-10-07 14:11:37 --> File loaded: application/views/wuzhong/update.php
+DEBUG - 2013-10-07 14:11:37 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 14:11:37 --> Final output sent to browser
+DEBUG - 2013-10-07 14:11:37 --> Total execution time: 0.0300
+DEBUG - 2013-10-07 14:11:37 --> Config Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Hooks Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 14:11:37 --> URI Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Router Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Output Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Security Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Input Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 14:11:37 --> Language Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Loader Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Controller Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 14:11:37 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 14:11:37 --> Session Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Helper loaded: string_helper
+DEBUG - 2013-10-07 14:11:37 --> Session routines successfully run
+DEBUG - 2013-10-07 14:11:37 --> Encrypt Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Model Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Model Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Controller Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 14:11:37 --> Controller Class Initialized
+ERROR - 2013-10-07 14:11:37 --> callbackshow
+ERROR - 2013-10-07 14:11:37 --> message show (http://hhshe.qiniudn.com/jiyu.jpg51ab024024eec?imageView/1/w/146/h/110&e=1417126297&token=LtcS2cGr8WfCpgfZGyX6YDmW4OjOEwt_rNGO0gog:9T98d7-mTIKCqhhprd22L7JY1Gw=)(http://hhshe.qiniudn.com/wuzhong.jpg51ab02d524eed?imageView/1/w/146/h/110&e=1417126297&token=LtcS2cGr8WfCpgfZGyX6YDmW4OjOEwt_rNGO0gog:eQGLsHb8f03fthee7ErdCkta1NA=)
+DEBUG - 2013-10-07 14:11:38 --> Config Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Hooks Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 14:11:38 --> URI Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Router Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Output Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Security Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Input Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 14:11:38 --> Language Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Loader Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Controller Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 14:11:38 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 14:11:38 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Model Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Model Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Controller Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 14:11:38 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 14:11:38 --> File loaded: application/views/templates/left.php
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: id /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 44
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: summary_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 88
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: con_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 89
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: summary_fname /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 90
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: con_fname /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 91
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: id /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 96
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: summary_url /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 317
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: summary_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 318
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: summary_fname /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 319
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: con_url /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 320
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: con_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 321
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: con_fname /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 322
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: name /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 330
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: xueming /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 336
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: quyu /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 340
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: gaishu /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 344
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: tezheng /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 358
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: xixing /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 362
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: fangshengdidian /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 366
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: jiage /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 370
+DEBUG - 2013-10-07 14:11:38 --> File loaded: application/views/wuzhong/update.php
+DEBUG - 2013-10-07 14:11:38 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 14:11:38 --> Final output sent to browser
+DEBUG - 2013-10-07 14:11:38 --> Total execution time: 0.0338
+DEBUG - 2013-10-07 14:11:38 --> Config Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Hooks Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 14:11:38 --> URI Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Router Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Output Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Security Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Input Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 14:11:38 --> Language Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Loader Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Controller Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 14:11:38 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 14:11:38 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Model Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Model Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> Controller Class Initialized
+DEBUG - 2013-10-07 14:11:38 --> File loaded: application/views/templates/head.php
+DEBUG - 2013-10-07 14:11:38 --> File loaded: application/views/templates/menu.php
+DEBUG - 2013-10-07 14:11:38 --> File loaded: application/views/templates/left.php
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: id /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 44
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: summary_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 88
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: con_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 89
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: summary_fname /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 90
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: con_fname /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 91
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: id /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 96
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: summary_url /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 317
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: summary_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 318
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: summary_fname /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 319
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: con_url /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 320
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: con_fkey /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 321
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: con_fname /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 322
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: name /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 330
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: xueming /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 336
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: quyu /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 340
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: gaishu /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 344
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: tezheng /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 358
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: xixing /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 362
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: fangshengdidian /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 366
+ERROR - 2013-10-07 14:11:38 --> Severity: Notice  --> Undefined variable: jiage /Users/syoujiang/Documents/hhs_web/web2/application/views/wuzhong/update.php 370
+DEBUG - 2013-10-07 14:11:38 --> File loaded: application/views/wuzhong/update.php
+DEBUG - 2013-10-07 14:11:38 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-10-07 14:11:38 --> Final output sent to browser
+DEBUG - 2013-10-07 14:11:38 --> Total execution time: 0.0329
+DEBUG - 2013-10-07 14:11:45 --> Config Class Initialized
+DEBUG - 2013-10-07 14:11:45 --> Hooks Class Initialized
+DEBUG - 2013-10-07 14:11:45 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 14:11:45 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 14:11:45 --> URI Class Initialized
+DEBUG - 2013-10-07 14:11:45 --> Router Class Initialized
+DEBUG - 2013-10-07 14:11:45 --> Output Class Initialized
+DEBUG - 2013-10-07 14:11:45 --> Security Class Initialized
+DEBUG - 2013-10-07 14:11:45 --> Input Class Initialized
+DEBUG - 2013-10-07 14:11:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 14:11:45 --> Language Class Initialized
+DEBUG - 2013-10-07 14:11:45 --> Loader Class Initialized
+DEBUG - 2013-10-07 14:11:45 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 14:11:45 --> Controller Class Initialized
+DEBUG - 2013-10-07 14:11:45 --> Config file loaded: application/config/rest.php
+DEBUG - 2013-10-07 14:11:45 --> Helper loaded: inflector_helper
+DEBUG - 2013-10-07 14:11:45 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 14:11:45 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 14:11:45 --> Model Class Initialized
+DEBUG - 2013-10-07 14:11:45 --> Model Class Initialized
+DEBUG - 2013-10-07 14:11:45 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 14:11:45 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 14:11:45 --> Controller Class Initialized
+DEBUG - 2013-10-07 14:11:45 --> XSS Filtering completed
+DEBUG - 2013-10-07 14:11:45 --> XSS Filtering completed
+DEBUG - 2013-10-07 14:12:29 --> Config Class Initialized
+DEBUG - 2013-10-07 14:12:29 --> Hooks Class Initialized
+DEBUG - 2013-10-07 14:12:29 --> Utf8 Class Initialized
+DEBUG - 2013-10-07 14:12:29 --> UTF-8 Support Enabled
+DEBUG - 2013-10-07 14:12:29 --> URI Class Initialized
+DEBUG - 2013-10-07 14:12:29 --> Router Class Initialized
+DEBUG - 2013-10-07 14:12:29 --> Output Class Initialized
+DEBUG - 2013-10-07 14:12:29 --> Security Class Initialized
+DEBUG - 2013-10-07 14:12:29 --> Input Class Initialized
+DEBUG - 2013-10-07 14:12:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-10-07 14:12:29 --> Language Class Initialized
+DEBUG - 2013-10-07 14:12:29 --> Loader Class Initialized
+DEBUG - 2013-10-07 14:12:29 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 14:12:29 --> Controller Class Initialized
+DEBUG - 2013-10-07 14:12:29 --> Config file loaded: application/config/rest.php
+DEBUG - 2013-10-07 14:12:29 --> Helper loaded: inflector_helper
+DEBUG - 2013-10-07 14:12:29 --> Helper loaded: form_helper
+DEBUG - 2013-10-07 14:12:29 --> Form Validation Class Initialized
+DEBUG - 2013-10-07 14:12:29 --> Model Class Initialized
+DEBUG - 2013-10-07 14:12:29 --> Model Class Initialized
+DEBUG - 2013-10-07 14:12:29 --> Helper loaded: url_helper
+DEBUG - 2013-10-07 14:12:29 --> Database Driver Class Initialized
+DEBUG - 2013-10-07 14:12:29 --> Controller Class Initialized

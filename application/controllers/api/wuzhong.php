@@ -29,17 +29,25 @@ class Wuzhong extends REST_Controller
         $this->load->model('wuzhong_model');
         $this->load->database();
         $this->load->helper('url');
+        $this->load->library('qbox');
         $this->show_count = $this->config->item('news_limit_no');
     }
     public function index_get()
     {
         $this->output->enable_profiler(TRUE);
         //放生开示的summary
-        $type=$this->wuzhong_model->get_type_api();
-
-        $sendmsg = array('bucket' => "hhs",
-                        'type' => $type);
-        $this->response($sendmsg, 200); // 200 being the HTTP response code
+        $content=$this->wuzhong_model->get_type_api();
+        $sendmsg = array();
+        $i=0;
+        foreach ($content as $rows)  
+        {  
+            $rows['summary_url']=$this->qbox->GetDownloadURL($rows['summary_fkey']);
+            $sendmsg[$i]=$rows;
+            $i++;
+        }  
+        $sendmsg2 = array('bucket' => "hhs",
+                        'type' => $sendmsg);
+        $this->response($sendmsg2, 200); // 200 being the HTTP response code
 
         # code...
     }
@@ -54,6 +62,10 @@ class Wuzhong extends REST_Controller
 
 
         $content=$this->wuzhong_model->getOne_api($id);
+        if($content)
+        {
+            $content['con_url']=$this->qbox->GetDownloadURL2($content['con_fkey']);
+        }
         $sendmsg = array('bucket' => "hhs",
                     'wuzhong' => $content);
 
