@@ -82,7 +82,7 @@ class User_model extends CI_Model {
 				'mail' => $mail,
                'token' => $token
             );
-		$this->db->insert('hhs_users_token', $data);
+		$this->db->insert('users_token', $data);
  		return 1;
  	}
  	public function check_login($mail,$password,&$token)

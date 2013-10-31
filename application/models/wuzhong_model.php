@@ -9,7 +9,7 @@ class Wuzhong_model extends CI_Model {
 	public function create()
 	{
 		$tmp=$this->input->post('zx_content_phone');
-		$tmp =preg_replace("/\s/","",$tmp);
+		$tmp =preg_replace("/<br><br><br>/","<br>",$tmp);
 		$data = array(
 		'name' => $this->input->post('title'),
 		'xueming' => $this->input->post('xueming'),
@@ -56,7 +56,7 @@ class Wuzhong_model extends CI_Model {
 	{
 		$slug = url_title($this->input->post('title'), 'dash', TRUE);
 		$tmp=$this->input->post('zx_content_phone');
-		$tmp =preg_replace("/\s/","",$tmp);
+		$tmp =preg_replace("/<br><br><br>/","<br>",$tmp);
 		$data = array(
 		'name' => $this->input->post('title'),
 		'xueming' => $this->input->post('xueming'),

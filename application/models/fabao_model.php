@@ -11,7 +11,7 @@ class Fabao_model extends CI_Model {
 	{
 		//$type_data=$this->getOneNewsType($this->input->post('shirts'));
 		$tmp=$this->input->post('zx_content_phone');
-		$tmp =preg_replace("/\s/","",$tmp);
+		$tmp =preg_replace("/<br><br><br>/","<br>",$tmp);
 		$data = array(
 		'fbname' => $this->input->post('title'),
 		'type' => $this->input->post('shirts'),
@@ -38,7 +38,7 @@ class Fabao_model extends CI_Model {
 	public function update_fabao($id)
 	{
 		$tmp=$this->input->post('zx_content_phone');
-		$tmp =preg_replace("/\s/","",$tmp);
+		$tmp =preg_replace("/<br><br><br>/","<br>",$tmp);
 		$data = array(
 				'fbname' => $this->input->post('title'),
 				'type' => $this->input->post('shirts'),

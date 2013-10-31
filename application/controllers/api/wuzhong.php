@@ -65,6 +65,7 @@ class Wuzhong extends REST_Controller
         if($content)
         {
             $content['con_url']=$this->qbox->GetDownloadURL2($content['con_fkey']);
+            $content['xixing_phone']="　　".str_replace("<br>","\\n　　",$content['xixing_phone']);
         }
         $sendmsg = array('bucket' => "hhs",
                     'wuzhong' => $content);

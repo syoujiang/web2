@@ -26,6 +26,7 @@ class Mypage extends CI_Controller{
         if (count($params) > 0)
         {
             $this->initialize($params);
+            log_message('error','$this->totalpage1111111'.$this->totalpage);
         }
     }
 
@@ -45,6 +46,8 @@ class Mypage extends CI_Controller{
             $this->last_page=isset($params['last_page']) ? $params['last_page'] : '末页';
         }
         $this->totalpage=ceil( $this->total / $this->perpage);//总页数
+        log_message('error','$this->totalpage'.$this->totalpage);
+        log_message('error','$this->totalpage'.$this->perpage);
         $this->_myset_url($this->url);//设置链接地址
     }
  
@@ -115,7 +118,9 @@ class Mypage extends CI_Controller{
         $plus=$this->part;
         $begin=1;
         $end=$this->totalpage;
-         
+        log_message('error','$end'.$end);
+        log_message('error','$this->totalpage'.$this->totalpage);
+        log_message('error','$this->totalpage'.$this->perpage);  
         if ($this->nowindex > $plus) {
             $begin=$this->nowindex-$plus;
             $end = $this->nowindex + $plus;
@@ -138,7 +143,7 @@ class Mypage extends CI_Controller{
             }
              
         }
-         
+        log_message('error','nowbar'.$out);     
         return $out;
     }
     /**

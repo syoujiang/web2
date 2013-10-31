@@ -119,7 +119,7 @@ function submitForm(){
 </tbody>
 </table>
 <div class="page">
-<?php echo $this->mypage->show(1); ?>
+<?php echo $mypage; ?>
 </div>
 </div>
 </div>

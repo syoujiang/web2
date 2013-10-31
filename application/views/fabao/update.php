@@ -272,7 +272,11 @@ $(function()
                 } 
             });
             K('input[name=getText]').click(function(e) {
-                    myform.zx_content_phone.value=editor2.text().replace(/[\r\n]/ig,"");
+                    str=editor2.text();
+                    str=str.replace(/\n/g,"<br>");
+                    var reg   =   /\s/g;     
+                    var ss   =   str.replace(reg, "");  
+                    myform.zx_content_phone.value=ss;
                     //alert(myform.zx_content_phone.value);
                     myform.submit();
                 });

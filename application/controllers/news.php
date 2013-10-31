@@ -34,10 +34,8 @@ class News extends CI_Controller
 		$page_config['seg']=3;//参数取 index.php之后的段数，默认为3，即index.php/control/function/18 这种形式
 		$page_config['nowindex']=$this->uri->segment($page_config['seg']) ? $this->uri->segment($page_config['seg']):1;//当前页
 		$page_config['total']=$total;
-
-                
+		$this->load->library('mypage');
 		$this->mypage->initialize($page_config);
-		//echo $page_config['nowindex'];
 		$offset = ($page_config['nowindex']-1)*($page_config['perpage']);
 		$data['news'] = $this->news_model->get_news(($offset),$page_config['perpage']);
 		$data['news_type']=$this->news_model->get_all_news_type();
@@ -46,7 +44,7 @@ class News extends CI_Controller
 		$data['formurl'] = form_open('news/index', $attributes,$hidden);
 		$data['arrayleft'] = array("<li><a href=\"".base_url('news_type')."\">资讯类别</a></li>",
 									"<li><a href=\"".base_url('news')."\">资讯管理</a></li>" );
-
+		$data['mypage']=$this->mypage->show(1);
 		$this->load->view('templates/head', $data);
 		$this->load->view('templates/menu');
 		$this->load->view('templates/left',$data);

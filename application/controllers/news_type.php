@@ -76,6 +76,7 @@ class news_type extends CI_Controller
 		$data['base'] = $this->config->item('base_url');
 		$data['arrayleft'] = array("<li><a href=\"".base_url('news_type')."\">资讯类别</a></li>",
 									"<li><a href=\"".base_url('news')."\">资讯管理</a></li>" );
+		$data['mypage']=$this->mypage->show(1);
 		$this->load->view('templates/head', $data);
 		$this->load->view('templates/menu');
 		$this->load->view('templates/left',$data);

@@ -303,7 +303,11 @@ $(function()
                 }
             });
             K('input[name=getText]').click(function(e) {
-                    myform.zx_content_phone.value=editor2.text();
+                    str=editor2.text();
+                    str=str.replace(/\n/g,"<br>");
+                    var reg   =   /\s/g;     
+                    var ss   =   str.replace(reg, "");  
+                    myform.zx_content_phone.value=ss;
                     myform.submit();
                 });
         });

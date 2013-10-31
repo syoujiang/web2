@@ -69,6 +69,7 @@ class Fangsheng extends REST_Controller
         if($content)
         {
             $content['con_url']=$this->qbox->GetDownloadURL($content['con_fkey']);
+            $content['content_phone']="　　".str_replace("<br>","\\n　　",$content['content_phone']);
             if(!$this->get('token'))
             {
                 $content['collect_flag']=0;

@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteBase /web2
+RewriteCond $1 !^(index\.php|res|images|bootstrap|phpmyadmin|robots\.txt)
+RewriteRule ^(.*)$ index.php/$1 [L]

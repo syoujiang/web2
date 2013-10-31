@@ -116,7 +116,7 @@ class fabao extends REST_Controller
             $content_tuijian=$this->fabao_model->get_tuijian($content['type']);
             
             $content['summary_url']=$this->qbox->GetDownloadURL($content['summary_fkey']);
-  
+            $content['content_phone']="　　".str_replace("<br>","\\n　　",$content['content_phone']);
             $sendmsg2 = array();
             $i=0;
             foreach ($content_tuijian as $rows)  
