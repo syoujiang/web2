@@ -78,6 +78,7 @@ class Fangsheng_model extends CI_Model {
 	public function get_summary_api()
 	{
 		# code...
+		$this->db->order_by("id", "desc");
 		$this->db->select('id, title,summary_url,summary_fkey,summary_fname,summary,kaishi');
 		$query = $this->db->get_where('hhs_fangsheng');
 		//echo  $this->db->last_query();
